@@ -2,6 +2,9 @@ import { useEffect, useState } from 'react';
 import { accountStore } from './account';
 
 /** Small helper for public JSON endpoints (updates, posters, tests) with a short sessionStorage cache. */
+/** Static files served when the API is not reachable (e.g. the site deployed before the API). */
+const STATIC_FALLBACK: Record<string, string> = { '/posters': '/posters/posters.json' };
+
 export async function publicGet<T>(path: string, cacheSec = 60): Promise<T> {
   const key = 'bbp.cache:' + path;
   try {
@@ -9,8 +12,14 @@ export async function publicGet<T>(path: string, cacheSec = 60): Promise<T> {
     if (raw) { const { at, data } = JSON.parse(raw); if (Date.now() - at < cacheSec * 1000) return data as T; }
   } catch { /* ignore */ }
   const token = accountStore.get().token;
-  const res = await fetch(`/api${path}`, { headers: token ? { authorization: `Bearer ${token}` } : {} });
-  if (!res.ok) throw new Error(String(res.status));
+  let res: Response | null = null;
+  try { res = await fetch(`/api${path}`, { headers: token ? { authorization: `Bearer ${token}` } : {} }); } catch { res = null; }
+  if (!res || !res.ok) {
+    const fb = STATIC_FALLBACK[path.split('?')[0]];
+    if (!fb) throw new Error(String(res?.status ?? 'network'));
+    res = await fetch(fb);
+    if (!res.ok) throw new Error(String(res.status));
+  }
   const data = (await res.json()) as T;
   try { sessionStorage.setItem(key, JSON.stringify({ at: Date.now(), data })); } catch { /* ignore */ }
   return data;

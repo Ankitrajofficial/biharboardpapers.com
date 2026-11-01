@@ -8,7 +8,6 @@
     <link rel="apple-touch-icon" href="/icons/icon.svg" />
     <link rel="preload" href="/fonts/NotoSansDevanagari-devanagari.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/api/posters" as="fetch" crossorigin />
-    <link rel="preload" href="/api/posters/first" as="image" fetchpriority="high" />
     <!--app-head-->
     <title>Bihar Board Padhai</title>
   </head>
@@ -20,7 +19,7 @@
       (function () {
         try {
           var cls = (JSON.parse(localStorage.getItem('bbp.prefs.v1') || '{}') || {}).classId || null;
-          fetch('/api/posters').then(function (r) { return r.json(); }).then(function (d) {
+          fetch('/api/posters').then(function (r) { if (!r.ok) throw new Error('api'); return r.json(); }).catch(function () { return fetch('/posters/posters.json').then(function (r) { return r.json(); }); }).then(function (d) {
             var list = (d && d.posters) || [];
             var p = null;
             for (var i = 0; i < list.length; i++) { if (!list[i].class || list[i].class === 'both' || !cls || list[i].class === cls) { p = list[i]; break; } }

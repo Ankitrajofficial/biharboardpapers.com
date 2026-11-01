@@ -1,0 +1,7 @@
+{
+  "posters": [
+    { "id": "po_sample", "image": "/posters/sample-2027.svg", "title": { "hi": "बोर्ड परीक्षा 2027 की तैयारी शुरू करें", "en": "Start your Board Exam 2027 preparation" }, "link": "/subjects", "class": "both" },
+    { "id": "po_sample_tests", "image": "/posters/sample-tests.svg", "title": { "hi": "हर हफ़्ते नया मॉक टेस्ट — BSEB पैटर्न", "en": "A new mock test every week — BSEB pattern" }, "link": "/tests", "class": "both" },
+    { "id": "po_sample_updates", "image": "/posters/sample-updates.svg", "title": { "hi": "एडमिट कार्ड, डेट-शीट, रिज़ल्ट — ताज़ा अपडेट", "en": "Admit card, date sheet, results — latest updates" }, "link": "/updates", "class": "both" }
+  ]
+}
