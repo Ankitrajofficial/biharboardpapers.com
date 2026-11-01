@@ -1,0 +1,2170 @@
+{
+ "meta": {
+  "session": "2026-27 (target)",
+  "generated": "2026-11-01",
+  "warning": "BSEB official syllabus PDFs found online are for sessions 2023-25 (Class 10) and 2023-25/2024-26 (XI-XII). NCERT books are Reprint 2026-27. Re-verify against any 2026-27 BSEB notice before publishing. Codes with '/' list Sc/Com/Arts variants. Class 12 Hindi chapter names not extracted (NCERT Hindi PDFs use legacy fonts) — fill name_hi by hand.",
+  "rules": [
+   "Two languages + three electives compulsory in Class XI-XII (BSEB XI-XII syllabus, p.iii)",
+   "Electives (non-language) use NCERT textbooks (same source)"
+  ],
+  "sources": {
+   "bseb_class10_syllabus": "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf",
+   "bseb_class11_12_syllabus": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+   "bseb_model_papers_matric": "https://biharboardonline.com/modelpapermatric.html",
+   "bseb_model_papers_inter": "https://biharboardonline.com/modelpaperinter.html",
+   "ncert_textbooks": "https://ncert.nic.in/textbook.php",
+   "bstbpc": "https://bstbpc.bihar.gov.in/"
+  }
+ },
+ "subjects": [
+  {
+   "stream": null,
+   "code": "101 (MIL-Hindi)",
+   "name_hi": "हिंदी (मातृभाषा)",
+   "name_en": "Hindi (MIL)",
+   "marks": {
+    "total": 100,
+    "split": "अपठित गद्यांश 20, रचना 15 (निबंध 10, पत्र 5/संवाद 5), व्याकरण 15, पाठ्यपुस्तक 40 (गद्य 20, पद्य 20), पूरक पुस्तक 10"
+   },
+   "textbook": [
+    "गोधूलि भाग-2 (BTC)",
+    "वर्णिका भाग-2 (पूरक, BTC)"
+   ],
+   "chapters": {
+    "गोधूलि भाग-2 — गद्य खंड": [
+     {
+      "no": 1,
+      "name_hi": "श्रम विभाजन और जाति प्रथा",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "विष के दाँत",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "भारत से हम क्या सीखें",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "नाखून क्यों बढ़ते हैं",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "नागरी लिपि",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "बहादुर",
+      "name_en": null
+     },
+     {
+      "no": 7,
+      "name_hi": "परंपरा का मूल्यांकन",
+      "name_en": null
+     },
+     {
+      "no": 8,
+      "name_hi": "जित-जित मैं निरखत हूँ",
+      "name_en": null
+     },
+     {
+      "no": 9,
+      "name_hi": "आविन्यों",
+      "name_en": null
+     },
+     {
+      "no": 10,
+      "name_hi": "मछली",
+      "name_en": null
+     },
+     {
+      "no": 11,
+      "name_hi": "नौबतखाने में इबादत",
+      "name_en": null
+     },
+     {
+      "no": 12,
+      "name_hi": "शिक्षा और संस्कृति",
+      "name_en": null
+     }
+    ],
+    "गोधूलि भाग-2 — काव्य खंड": [
+     {
+      "no": 1,
+      "name_hi": "राम नाम बिनु बिरथे जगि जनमा / जो नर दुख में दुख नहिं मानै (गुरु नानक)",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "प्रेम-अयनि श्री राधिका / करील के कुंजन ऊपर वारौं (रसखान)",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "अति सूधो सनेह को मारग है / मो अँसुवानिहिं लै बरसौ (घनानंद)",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "स्वदेशी",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "भारतमाता",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "जनतंत्र का जन्म",
+      "name_en": null
+     },
+     {
+      "no": 7,
+      "name_hi": "हिरोशिमा",
+      "name_en": null
+     },
+     {
+      "no": 8,
+      "name_hi": "एक वृक्ष की हत्या",
+      "name_en": null
+     },
+     {
+      "no": 9,
+      "name_hi": "हमारी नींद",
+      "name_en": null
+     },
+     {
+      "no": 10,
+      "name_hi": "अक्षर-ज्ञान",
+      "name_en": null
+     },
+     {
+      "no": 11,
+      "name_hi": "लौटकर आऊँगा फिर",
+      "name_en": null
+     },
+     {
+      "no": 12,
+      "name_hi": "मेरे बिना तुम प्रभु",
+      "name_en": null
+     }
+    ],
+    "वर्णिका भाग-2": [
+     {
+      "no": 1,
+      "name_hi": "दही वाली मंगम्मा (कन्नड़)",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "ढहते विश्वास (उड़िया)",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "माँ (गुजराती)",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "नगर (तमिल)",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "धरती कब तक घूमेगी (राजस्थानी)",
+      "name_en": null
+     }
+    ]
+   },
+   "source": [
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "verified_official_2023-25_session_document (re-check for 2026-27)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "113",
+   "name_hi": "अंग्रेज़ी",
+   "name_en": "English",
+   "marks": {
+    "total": 100,
+    "split": "Reading 20, Paragraph Writing 5, Short Writing Task 15, Grammar 15, Translation 5, Text books 40 (Prose 20, Poetry 10, Supplementary Reader 10)"
+   },
+   "textbook": [
+    "Panorama Part-II (BTC)",
+    "Panorama Part-II Supplementary Reader (BTC)"
+   ],
+   "chapters": {
+    "Prose": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "The Pace For Living"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Me and The Ecology Bit"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Gillu"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "What is wrong with Indian Films"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Acceptance Speech"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Once Upon A Time"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "The Unity of Indian Culture"
+     },
+     {
+      "no": 8,
+      "name_hi": null,
+      "name_en": "Little Girls wiser than men"
+     }
+    ],
+    "Poetry": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "God Made The Country"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Ode On Solitude"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Polythene Bag"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Thinner Than a Crescent"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "The Empty Heart"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Koel"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "The Sleeping Porter"
+     },
+     {
+      "no": 8,
+      "name_hi": null,
+      "name_en": "Martha"
+     }
+    ],
+    "Supplementary Reader": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "January Night"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Allergy"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "The Bet"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Quality"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Sun and Moon"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Two Horizons"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "Love Defiled"
+     }
+    ]
+   },
+   "source": [
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "verified_official_2023-25_session_document (re-check for 2026-27)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "105 (SIL-Sanskrit)",
+   "name_hi": "संस्कृत (द्वितीय भारतीय भाषा)",
+   "name_en": "Sanskrit (SIL)",
+   "marks": {
+    "total": 100,
+    "split": "अपठित अवबोधनम् 13, रचनात्मक कार्यम् 15 (पत्र 4+4=8, अनुच्छेद 7), अनुप्रयुक्त व्याकरणम् 24, अनुवाद 6, पठित अवबोधनम् 42"
+   },
+   "textbook": [
+    "पीयूषम् द्वितीय भाग (BTC)"
+   ],
+   "chapters": {
+    "पीयूषम्": [
+     {
+      "no": 1,
+      "name_hi": "मङ्गलम्",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "पाटलिपुत्रवैभवम्",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "अलसकथा",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "संस्कृतसाहित्ये लेखिकाः",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "भारतमहिमा",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "भारतीयसंस्काराः",
+      "name_en": null
+     },
+     {
+      "no": 7,
+      "name_hi": "नीतिश्लोकाः",
+      "name_en": null
+     },
+     {
+      "no": 8,
+      "name_hi": "कर्मवीरकथा",
+      "name_en": null
+     },
+     {
+      "no": 9,
+      "name_hi": "स्वामी दयानन्दः",
+      "name_en": null
+     },
+     {
+      "no": 10,
+      "name_hi": "मन्दाकिनीवर्णनम्",
+      "name_en": null
+     },
+     {
+      "no": 11,
+      "name_hi": "व्याघ्रपथिककथा",
+      "name_en": null
+     },
+     {
+      "no": 12,
+      "name_hi": "कर्णस्य दानवीरता",
+      "name_en": null
+     },
+     {
+      "no": 13,
+      "name_hi": "विश्वशान्तिः",
+      "name_en": null
+     },
+     {
+      "no": 14,
+      "name_hi": "शास्त्रकाराः",
+      "name_en": null
+     }
+    ]
+   },
+   "source": [
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "verified_official_2023-25_session_document (re-check for 2026-27)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "110",
+   "name_hi": "गणित",
+   "name_en": "Mathematics",
+   "marks": {
+    "total": 100,
+    "split": "संख्या पद्धति 10, बीजगणित 20, त्रिकोणमिति 20, निर्देशांक ज्यामिति 10, ज्यामिति 20, क्षेत्रमिति 10, सांख्यिकी एवं प्रायिकता 10"
+   },
+   "textbook": [
+    "गणित (BTC)"
+   ],
+   "chapters": {
+    "गणित": [
+     {
+      "no": 1,
+      "name_hi": "वास्तविक संख्याएँ",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "बहुपद",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "दो चर वाले रैखिक समीकरण युग्म",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "द्विघात समीकरण",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "समांतर श्रेढ़ी",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "त्रिभुज",
+      "name_en": null
+     },
+     {
+      "no": 7,
+      "name_hi": "निर्देशांक ज्यामिति",
+      "name_en": null
+     },
+     {
+      "no": 8,
+      "name_hi": "त्रिकोणमिति का परिचय",
+      "name_en": null
+     },
+     {
+      "no": 9,
+      "name_hi": "त्रिकोणमिति के कुछ अनुप्रयोग",
+      "name_en": null
+     },
+     {
+      "no": 10,
+      "name_hi": "वृत्त",
+      "name_en": null
+     },
+     {
+      "no": 11,
+      "name_hi": "रचनाएँ",
+      "name_en": null
+     },
+     {
+      "no": 12,
+      "name_hi": "वृत्तों से संबंधित क्षेत्रफल",
+      "name_en": null
+     },
+     {
+      "no": 13,
+      "name_hi": "पृष्ठीय क्षेत्रफल और आयतन",
+      "name_en": null
+     },
+     {
+      "no": 14,
+      "name_hi": "सांख्यिकी",
+      "name_en": null
+     },
+     {
+      "no": 15,
+      "name_hi": "प्रायिकता",
+      "name_en": null
+     }
+    ]
+   },
+   "source": [
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "verified_official_2023-25_session_document (re-check for 2026-27)",
+   "note": "Chapter order/numbering as in the BSEB 2023-25 monthly chart (includes रचनाएँ, ch 11). Compare with current BTC 2026-27 book.",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "112",
+   "name_hi": "विज्ञान",
+   "name_en": "Science",
+   "marks": {
+    "total": 100,
+    "theory": 80,
+    "split": "भौतिकी 27, रसायन शास्त्र 27, जीव विज्ञान 26; remaining 20 = internal/practical — UNVERIFIED, check BSEB"
+   },
+   "textbook": [
+    "विज्ञान (BTC)"
+   ],
+   "chapters": {
+    "रसायन शास्त्र": [
+     {
+      "no": 1,
+      "name_hi": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "अम्ल, क्षारक एवं लवण",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "धातु एवं अधातु",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "कार्बन एवं उसके यौगिक",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "तत्वों का आवर्त वर्गीकरण",
+      "name_en": null
+     }
+    ],
+    "जीव विज्ञान": [
+     {
+      "no": 1,
+      "name_hi": "जैव प्रक्रम",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "नियंत्रण एवं समन्वय",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "जीव जनन कैसे करते हैं",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "आनुवंशिकता एवं जैव विकास",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "हमारा पर्यावरण",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "प्राकृतिक संसाधनों का प्रबंधन",
+      "name_en": null
+     }
+    ],
+    "भौतिकी": [
+     {
+      "no": 1,
+      "name_hi": "प्रकाश-परावर्तन तथा अपवर्तन",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "मानव नेत्र तथा रंगबिरंगा संसार",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "विद्युत",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "विद्युत धारा के चुंबकीय प्रभाव",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "ऊर्जा के स्रोत",
+      "name_en": null
+     }
+    ]
+   },
+   "source": [
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "verified_official_2023-25_session_document (re-check for 2026-27)",
+   "note": "Book chapter numbers: Chem 1-5, Bio 6-9 & 15-16, Physics 10-14.",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "111",
+   "name_hi": "सामाजिक विज्ञान",
+   "name_en": "Social Science",
+   "marks": {
+    "total": 100,
+    "theory": 80,
+    "split": "इतिहास 20, भूगोल 20, राजनीति विज्ञान 18, अर्थशास्त्र 16, आपदा प्रबंधन 6; प्रोजेक्ट 20 (10 निबंध/कार्यकलाप + 10 प्रोजेक्ट)"
+   },
+   "textbook": [
+    "इतिहास की दुनिया भाग-2",
+    "भारत: संसाधन एवं उपयोग (खण्ड क, ख)",
+    "लोकतांत्रिक राजनीति भाग-2",
+    "हमारी अर्थव्यवस्था भाग-2 (all BTC)"
+   ],
+   "chapters": {
+    "इतिहास": [
+     {
+      "no": 1,
+      "name_hi": "यूरोप में राष्ट्रवाद",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "समाजवाद एवं साम्यवाद",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "हिन्द-चीन में राष्ट्रवादी आंदोलन",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "भारत में राष्ट्रवाद",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "अर्थ-व्यवस्था और आजीविका",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "शहरीकरण एवं शहरी जीवन",
+      "name_en": null
+     },
+     {
+      "no": 7,
+      "name_hi": "व्यापार और भूमंडलीकरण",
+      "name_en": null
+     },
+     {
+      "no": 8,
+      "name_hi": "प्रेस-संस्कृति एवं राष्ट्रवाद",
+      "name_en": null
+     }
+    ],
+    "भूगोल": [
+     {
+      "no": 1,
+      "name_hi": "भारत: संसाधन एवं उपयोग (प्राकृतिक, जल, वन एवं वन्य प्राणी, खनिज, शक्ति संसाधन)",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "कृषि",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "निर्माण उद्योग",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "परिवहन, संचार एवं व्यापार",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "बिहार: कृषि एवं वन संसाधन (+ खनिज, उद्योग, परिवहन, जनसंख्या)",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "मानचित्र अध्ययन",
+      "name_en": null
+     }
+    ],
+    "राजनीति विज्ञान": [
+     {
+      "no": 1,
+      "name_hi": "लोकतंत्र में सत्ता की साझेदारी",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "सत्ता में साझेदारी की कार्यप्रणाली",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "लोकतंत्र में प्रतिस्पर्धा एवं संघर्ष",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "लोकतंत्र की उपलब्धियाँ",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "लोकतंत्र की चुनौतियाँ",
+      "name_en": null
+     }
+    ],
+    "अर्थशास्त्र": [
+     {
+      "no": 1,
+      "name_hi": "अर्थव्यवस्था एवं इसके विकास का इतिहास",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "राज्य एवं राष्ट्र की आय",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "मुद्रा, बचत एवं साख",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "हमारी वित्तीय संस्थाएँ",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "रोजगार एवं सेवाएँ",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "वैश्वीकरण",
+      "name_en": null
+     },
+     {
+      "no": 7,
+      "name_hi": "उपभोक्ता जागरण एवं संरक्षण",
+      "name_en": null
+     }
+    ],
+    "आपदा प्रबंधन": [
+     {
+      "no": 1,
+      "name_hi": "प्राकृतिक आपदा: एक परिचय",
+      "name_en": null
+     },
+     {
+      "no": 2,
+      "name_hi": "प्राकृतिक आपदा एवं प्रबंधन: बाढ़ और सुखाड़",
+      "name_en": null
+     },
+     {
+      "no": 3,
+      "name_hi": "प्राकृतिक आपदा एवं प्रबंधन: भूकंप एवं सुनामी",
+      "name_en": null
+     },
+     {
+      "no": 4,
+      "name_hi": "जीवन रक्षक आकस्मिक प्रबंधन",
+      "name_en": null
+     },
+     {
+      "no": 5,
+      "name_hi": "आपदा काल में वैकल्पिक संचार व्यवस्था",
+      "name_en": null
+     },
+     {
+      "no": 6,
+      "name_hi": "आपदा और सह-अस्तित्व",
+      "name_en": null
+     }
+    ]
+   },
+   "source": [
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "verified_official_2023-25_session_document (re-check for 2026-27)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "103",
+   "name_hi": null,
+   "name_en": "Urdu",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "104",
+   "name_hi": null,
+   "name_en": "Maithili",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "102",
+   "name_hi": null,
+   "name_en": "Bangla",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "106",
+   "name_hi": null,
+   "name_en": "SIL-Hindi",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "107",
+   "name_hi": null,
+   "name_en": "Arabic",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "108",
+   "name_hi": null,
+   "name_en": "Persian",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "109",
+   "name_hi": null,
+   "name_en": "Bhojpuri",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "114",
+   "name_hi": null,
+   "name_en": "Advanced Maths (optional)",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "115",
+   "name_hi": null,
+   "name_en": "Commerce (optional)",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "116",
+   "name_hi": null,
+   "name_en": "Economics (optional)",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "117",
+   "name_hi": null,
+   "name_en": "Fine Arts",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "118",
+   "name_hi": null,
+   "name_en": "Home Science",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "119",
+   "name_hi": null,
+   "name_en": "Dance",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": null,
+   "code": "120",
+   "name_hi": null,
+   "name_en": "Music",
+   "marks": null,
+   "textbook": null,
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpapermatric.html",
+    "https://biharboardonline.com/files/CLASS_10_SYLLABUS%20.pdf"
+   ],
+   "status": "gap: subject code from BSEB model-paper page; chapters not yet extracted (Urdu chart present in BSEB PDF p.6-7)",
+   "class": 10
+  },
+  {
+   "stream": "Science",
+   "code": "117",
+   "name_hi": "भौतिकी",
+   "name_en": "Physics",
+   "marks": {
+    "total": 100,
+    "theory": 70,
+    "practical": 30,
+    "objective": "70 given, attempt 35 (secondary source, verify)"
+   },
+   "textbook": [
+    "Physics Part I",
+    "Physics Part II"
+   ],
+   "chapters": {
+    "Part I": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Electric Charges and Fields"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Electrostatic Potential and Capacitance"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Current Electricity"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Moving Charges and Magnetism"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Magnetism and Matter"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Electromagnetic Induction"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "Alternating Current"
+     },
+     {
+      "no": 8,
+      "name_hi": null,
+      "name_en": "Electromagnetic Waves"
+     }
+    ],
+    "Part II": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Ray Optics and Optical Instruments"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Wave Optics"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Dual Nature of Radiation and Matter"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Atoms"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Nuclei"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Semiconductor Electronics: Materials, Devices and Simple Circuits"
+     }
+    ]
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+    "https://ncert.nic.in/textbook/pdf/leph2ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "class": 12
+  },
+  {
+   "stream": "Science",
+   "code": "118",
+   "name_hi": "रसायन विज्ञान",
+   "name_en": "Chemistry",
+   "marks": {
+    "total": 100,
+    "theory": 70,
+    "practical": 30,
+    "objective": "70 given, attempt 35 (secondary source, verify)"
+   },
+   "textbook": [
+    "Chemistry Part I",
+    "Chemistry Part II"
+   ],
+   "chapters": {
+    "Part I": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Solutions"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Electrochemistry"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Chemical Kinetics"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "The d- and f-Block Elements"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Coordination Compounds"
+     }
+    ],
+    "Part II": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Haloalkanes and Haloarenes"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Alcohols, Phenols and Ethers"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Aldehydes, Ketones and Carboxylic Acids"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Amines"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Biomolecules"
+     }
+    ]
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/lech1ps.pdf",
+    "https://ncert.nic.in/textbook/pdf/lech2ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "class": 12
+  },
+  {
+   "stream": "Science",
+   "code": "119",
+   "name_hi": "जीव विज्ञान",
+   "name_en": "Biology",
+   "marks": {
+    "total": 100,
+    "theory": 70,
+    "practical": 30,
+    "objective": "70 given, attempt 35 (secondary source, verify)"
+   },
+   "textbook": [
+    "Biology"
+   ],
+   "chapters": {
+    "Biology": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Sexual Reproduction in Flowering Plants"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Human Reproduction"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Reproductive Health"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Principles of Inheritance and Variation"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Molecular Basis of Inheritance"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Evolution"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "Human Health and Disease"
+     },
+     {
+      "no": 8,
+      "name_hi": null,
+      "name_en": "Microbes in Human Welfare"
+     },
+     {
+      "no": 9,
+      "name_hi": null,
+      "name_en": "Biotechnology: Principles and Processes"
+     },
+     {
+      "no": 10,
+      "name_hi": null,
+      "name_en": "Biotechnology and its Applications"
+     },
+     {
+      "no": 11,
+      "name_hi": null,
+      "name_en": "Organisms and Populations"
+     },
+     {
+      "no": 12,
+      "name_hi": null,
+      "name_en": "Ecosystem"
+     },
+     {
+      "no": 13,
+      "name_hi": null,
+      "name_en": "Biodiversity and Conservation"
+     }
+    ]
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/lebo1ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "class": 12
+  },
+  {
+   "stream": "Science",
+   "code": "121/327",
+   "name_hi": "गणित",
+   "name_en": "Mathematics",
+   "marks": {
+    "total": 100,
+    "objective": "100 given, attempt 50 (secondary source, verify)"
+   },
+   "textbook": [
+    "Mathematics Part I",
+    "Mathematics Part II"
+   ],
+   "chapters": {
+    "Part I": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Relations and Functions"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Inverse Trigonometric Functions"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Matrices"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Determinants"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Continuity and Differentiability"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Application of Derivatives"
+     }
+    ],
+    "Part II": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Integrals"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Application of Integrals"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Differential Equations"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Vector Algebra"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Three Dimensional Geometry"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Linear Programming"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "Probability"
+     }
+    ]
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/lemh1ps.pdf",
+    "https://ncert.nic.in/textbook/pdf/lemh2ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "class": 12
+  },
+  {
+   "stream": "Commerce",
+   "code": "220",
+   "name_hi": "लेखाशास्त्र",
+   "name_en": "Accountancy",
+   "marks": {
+    "total": 100,
+    "objective": "100 given, attempt 50 (secondary source, verify)"
+   },
+   "textbook": [
+    "Accountancy Part I",
+    "Accountancy Part II"
+   ],
+   "chapters": {
+    "Part I (Partnership)": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Accounting for Partnership: Basic Concepts"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Reconstitution of a Partnership Firm – Admission of a Partner"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Reconstitution of a Partnership Firm – Retirement/Death of a Partner"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Dissolution of Partnership Firm"
+     }
+    ],
+    "Part II (Company)": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Accounting for Share Capital"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Issue and Redemption of Debentures"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Financial Statements of a Company"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Analysis of Financial Statements"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Accounting Ratios"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Cash Flow Statement"
+     }
+    ]
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/leac1ps.pdf",
+    "https://ncert.nic.in/textbook/pdf/leac2ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "class": 12
+  },
+  {
+   "stream": "Commerce",
+   "code": "217",
+   "name_hi": "व्यवसाय अध्ययन",
+   "name_en": "Business Studies",
+   "marks": {
+    "total": 100,
+    "objective": "100 given, attempt 50 (secondary source, verify)"
+   },
+   "textbook": [
+    "Business Studies Part I",
+    "Business Studies Part II"
+   ],
+   "chapters": {
+    "Part I": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Nature and Significance of Management"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Principles of Management"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Business Environment"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Planning"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Organising"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Staffing"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "Directing"
+     },
+     {
+      "no": 8,
+      "name_hi": null,
+      "name_en": "Controlling"
+     }
+    ],
+    "Part II": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Financial Management"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Marketing"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Consumer Protection"
+     }
+    ]
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/lebs1ps.pdf",
+    "https://ncert.nic.in/textbook/pdf/lebs2ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "class": 12
+  },
+  {
+   "stream": "Commerce, Arts",
+   "code": "219/326",
+   "name_hi": "अर्थशास्त्र",
+   "name_en": "Economics",
+   "marks": {
+    "total": 100,
+    "objective": "100 given, attempt 50 (secondary source, verify)"
+   },
+   "textbook": [
+    "Introductory Macroeconomics"
+   ],
+   "chapters": {
+    "Introductory Macroeconomics": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Introduction"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "National Income Accounting"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Money and Banking"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Determination of Income and Employment"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Government Budget and the Economy"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Open Economy Macroeconomics"
+     }
+    ],
+    "Introductory Microeconomics": []
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/leec1ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "note": "Microeconomics book (leec2) did not download; its chapters are a GAP. BSEB Class 12 Economics may include both Micro and Macro — verify.",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "321",
+   "name_hi": "इतिहास",
+   "name_en": "History",
+   "marks": {
+    "total": 100,
+    "objective": "100 given, attempt 50 (secondary source, verify)"
+   },
+   "textbook": [
+    "Themes in Indian History Part I",
+    "Part II",
+    "Part III"
+   ],
+   "chapters": {
+    "Part I": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Bricks, Beads and Bones: The Harappan Civilisation"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Kings, Farmers and Towns: Early States and Economies"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Kinship, Caste and Class: Early Societies"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Thinkers, Beliefs and Buildings: Cultural Developments"
+     }
+    ],
+    "Part II": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Through the Eyes of Travellers: Perceptions of Society"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "An Imperial Capital: Vijayanagara"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire"
+     }
+    ],
+    "Part III": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Colonialism and the Countryside: Exploring Official Archives"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Rebels and the Raj: The Revolt of 1857 and Its Representations"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Mahatma Gandhi and the Nationalist Movement"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Framing the Constitution: The Beginning of a New Era"
+     }
+    ]
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/lehs1ps.pdf",
+    "https://ncert.nic.in/textbook/pdf/lehs2ps.pdf",
+    "https://ncert.nic.in/textbook/pdf/lehs3ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "323",
+   "name_hi": "भूगोल",
+   "name_en": "Geography",
+   "marks": {
+    "total": 100,
+    "theory": 70,
+    "practical": 30,
+    "note": "verify"
+   },
+   "textbook": [
+    "Fundamentals of Human Geography",
+    "India: People and Economy"
+   ],
+   "chapters": {
+    "Fundamentals of Human Geography": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Human Geography: Nature and Scope"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "The World Population: Distribution, Density and Growth"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Human Development"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Primary Activities"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Secondary Activities"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Tertiary and Quaternary Activities"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "Transport and Communication"
+     },
+     {
+      "no": 8,
+      "name_hi": null,
+      "name_en": "International Trade"
+     }
+    ],
+    "India: People and Economy": [
+     {
+      "no": 1,
+      "name_hi": null,
+      "name_en": "Population: Distribution, Density, Growth and Composition"
+     },
+     {
+      "no": 2,
+      "name_hi": null,
+      "name_en": "Human Settlements"
+     },
+     {
+      "no": 3,
+      "name_hi": null,
+      "name_en": "Land Resources and Agriculture"
+     },
+     {
+      "no": 4,
+      "name_hi": null,
+      "name_en": "Water Resources"
+     },
+     {
+      "no": 5,
+      "name_hi": null,
+      "name_en": "Mineral and Energy Resources"
+     },
+     {
+      "no": 6,
+      "name_hi": null,
+      "name_en": "Planning and Sustainable Development in Indian Context"
+     },
+     {
+      "no": 7,
+      "name_hi": null,
+      "name_en": "Transport and Communication"
+     },
+     {
+      "no": 8,
+      "name_hi": null,
+      "name_en": "International Trade"
+     },
+     {
+      "no": 9,
+      "name_hi": null,
+      "name_en": "Geographical Perspective on Selected Issues and Problems"
+     }
+    ]
+   },
+   "source": [
+    "https://ncert.nic.in/textbook/pdf/legy1ps.pdf",
+    "https://ncert.nic.in/textbook/pdf/legy2ps.pdf",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "https://biharboardonline.com/modelpaperinter.html"
+   ],
+   "status": "verified_official_textbook (NCERT Reprint 2026-27); BSEB rule: elective subjects use NCERT books (BSEB XI-XII syllabus p.iii). Chapter deletions by BSEB not checked.",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "322",
+   "name_hi": "राजनीति विज्ञान",
+   "name_en": "Political Science",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "325",
+   "name_hi": "समाजशास्त्र",
+   "name_en": "Sociology",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "324",
+   "name_hi": "मनोविज्ञान",
+   "name_en": "Psychology",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "320",
+   "name_hi": "दर्शनशास्त्र",
+   "name_en": "Philosophy",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "319",
+   "name_hi": "गृह विज्ञान",
+   "name_en": "Home Science",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "318",
+   "name_hi": "संगीत",
+   "name_en": "Music",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Arts",
+   "code": "317",
+   "name_hi": "योग एवं शारीरिक शिक्षा",
+   "name_en": "Yoga & Physical Education",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Commerce",
+   "code": "218",
+   "name_hi": "उद्यमिता",
+   "name_en": "Entrepreneurship",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All",
+   "code": "122/221/328",
+   "name_hi": "कंप्यूटर विज्ञान",
+   "name_en": "Computer Science",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Science",
+   "code": "123",
+   "name_hi": null,
+   "name_en": "Multimedia & Web Technology",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "Science",
+   "code": "120",
+   "name_hi": "कृषि",
+   "name_en": "Agriculture",
+   "marks": null,
+   "textbook": "NCERT (per BSEB rule for electives)",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "106/206/306",
+   "name_hi": "हिंदी",
+   "name_en": "Hindi",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "105/124/205/223",
+   "name_hi": "अंग्रेज़ी",
+   "name_en": "English",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "107/207/307",
+   "name_hi": "उर्दू",
+   "name_en": "Urdu",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "108/208/308",
+   "name_hi": "मैथिली",
+   "name_en": "Maithili",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "109/209/309",
+   "name_hi": "संस्कृत",
+   "name_en": "Sanskrit",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "110/210/310",
+   "name_hi": "प्राकृत",
+   "name_en": "Prakrit",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "111/211/311",
+   "name_hi": "मगही",
+   "name_en": "Magahi",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "112/212/312",
+   "name_hi": "भोजपुरी",
+   "name_en": "Bhojpuri",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "113/213/313",
+   "name_hi": "अरबी",
+   "name_en": "Arabic",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "114/214/314",
+   "name_hi": "फ़ारसी",
+   "name_en": "Persian",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "115/215/315",
+   "name_hi": "पालि",
+   "name_en": "Pali",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  },
+  {
+   "stream": "All (language)",
+   "code": "116/216/316",
+   "name_hi": "बांग्ला",
+   "name_en": "Bangla",
+   "marks": null,
+   "textbook": "BSTBPC/BSEB-prescribed language books — not yet verified",
+   "chapters": null,
+   "source": [
+    "https://biharboardonline.com/modelpaperinter.html",
+    "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf"
+   ],
+   "status": "gap: code verified from BSEB model-paper page; chapters not yet extracted",
+   "class": 12
+  }
+ ]
+}

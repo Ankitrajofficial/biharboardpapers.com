@@ -1,0 +1,338 @@
+{
+  "id": "c10-sci-ch01",
+  "class": "class-10",
+  "medium": "hindi",
+  "subjectId": "science",
+  "chapterNumber": 1,
+  "syllabus": {
+    "section": "रसायन शास्त्र",
+    "no": 1
+  },
+  "slug": "rasayanik-abhikriya-evam-samikaran",
+  "title": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+  "aliases": [
+    "रासायनिक अभिक्रिया",
+    "रासायनिक समीकरण",
+    "समीकरण संतुलित करना",
+    "rasayanik abhikriya",
+    "rasayanik samikaran",
+    "chemical reactions",
+    "chemical equations",
+    "vigyan class 10 adhyay 1"
+  ],
+  "summary": "पदार्थ नए पदार्थों में कैसे बदलते हैं, रासायनिक समीकरण कैसे लिखे और संतुलित किए जाते हैं, तथा अभिक्रियाओं के मुख्य प्रकार।",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "विज्ञान, कक्षा 10 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?jhsc1=0-13"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "रासायनिक अभिक्रिया क्या है?"
+    },
+    {
+      "type": "paragraph",
+      "text": "रासायनिक अभिक्रिया वह प्रक्रिया है जिसमें एक या अधिक पदार्थ (अभिकारक) बदलकर भिन्न गुणों वाले एक या अधिक नए पदार्थ (उत्पाद) बनाते हैं। दूध का खट्टा होना, लोहे में जंग लगना, भोजन का पचना और मैग्नीशियम के फीते का चमकदार सफेद लौ के साथ जलना इसके रोज़मर्रा के उदाहरण हैं। अभिक्रिया की पहचान रंग में परिवर्तन, अवस्था में परिवर्तन, गैस के निकलने या ताप में परिवर्तन से की जा सकती है।"
+    },
+    {
+      "type": "heading",
+      "text": "रासायनिक समीकरण और उसका संतुलन"
+    },
+    {
+      "type": "paragraph",
+      "text": "रासायनिक समीकरण प्रतीकों और सूत्रों की सहायता से अभिक्रिया को संक्षेप में लिखने का तरीका है। अभिकारक बाईं ओर, उत्पाद दाईं ओर लिखे जाते हैं और तीर परिवर्तन की दिशा बताता है। द्रव्यमान संरक्षण के नियम के अनुसार द्रव्य न तो बनाया जा सकता है और न नष्ट किया जा सकता है, इसलिए प्रत्येक तत्व के परमाणुओं की संख्या दोनों ओर बराबर होनी चाहिए। जिस समीकरण में दोनों ओर परमाणु बराबर हों उसे संतुलित समीकरण कहते हैं। भौतिक अवस्थाएँ (s) ठोस, (l) द्रव, (g) गैस और (aq) जलीय विलयन के रूप में लिखी जाती हैं।"
+    },
+    {
+      "type": "formula",
+      "text": "2Mg(s) + O2(g) → 2MgO(s)",
+      "label": "मैग्नीशियम फीते का दहन (संतुलित संयोजन अभिक्रिया)"
+    },
+    {
+      "type": "formula",
+      "text": "Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s)",
+      "label": "विस्थापन: लोहा कॉपर सल्फेट विलयन से ताँबे को बाहर निकाल देता है"
+    },
+    {
+      "type": "heading",
+      "text": "रासायनिक अभिक्रियाओं के प्रकार"
+    },
+    {
+      "type": "list",
+      "items": [
+        "संयोजन अभिक्रिया: दो या अधिक पदार्थ मिलकर एक उत्पाद बनाते हैं, जैसे CaO + H2O → Ca(OH)2 (बिना बुझा चूना और जल, ऊष्मा निकलती है)।",
+        "वियोजन (अपघटन) अभिक्रिया: एक पदार्थ ऊष्मा, प्रकाश या विद्युत से टूटकर दो या अधिक सरल पदार्थ बनाता है, जैसे गर्म करने पर CaCO3 → CaO + CO2; सूर्य के प्रकाश में 2AgCl → 2Ag + Cl2।",
+        "विस्थापन अभिक्रिया: अधिक क्रियाशील तत्व कम क्रियाशील तत्व को उसके यौगिक से बाहर निकाल देता है, जैसे Zn + CuSO4 → ZnSO4 + Cu।",
+        "द्विविस्थापन अभिक्रिया: दो यौगिक आपस में अपने आयनों की अदला-बदली करते हैं, प्रायः अवक्षेप बनता है, जैसे Na2SO4 + BaCl2 → BaSO4 (सफेद अवक्षेप) + 2NaCl।",
+        "उपचयन-अपचयन (रेडॉक्स) अभिक्रिया: एक पदार्थ ऑक्सीजन प्राप्त करता है और दूसरा ऑक्सीजन खोता है, जैसे CuO + H2 → Cu + H2O।"
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "ऊष्माक्षेपी अभिक्रियाओं में ऊष्मा बाहर निकलती है (ईंधन का जलना, श्वसन, जल में बिना बुझा चूना)। ऊष्माशोषी अभिक्रियाओं में ऊष्मा अवशोषित होती है (चूना पत्थर का अपघटन, प्रकाश संश्लेषण)। अधिकांश वियोजन अभिक्रियाएँ ऊष्माशोषी होती हैं।"
+    },
+    {
+      "type": "heading",
+      "text": "उपचयन और अपचयन"
+    },
+    {
+      "type": "paragraph",
+      "text": "उपचयन (ऑक्सीकरण) का अर्थ है ऑक्सीजन का प्राप्त होना या हाइड्रोजन का निकलना; अपचयन का अर्थ है ऑक्सीजन का निकलना या हाइड्रोजन का प्राप्त होना। एक ही अभिक्रिया में दोनों हमेशा साथ-साथ होते हैं, इसीलिए ऐसी अभिक्रियाओं को रेडॉक्स अभिक्रिया कहते हैं। CuO + H2 → Cu + H2O में कॉपर ऑक्साइड ऑक्सीजन खोता है (उसका अपचयन होता है) और हाइड्रोजन ऑक्सीजन प्राप्त करता है (उसका उपचयन होता है)। जो पदार्थ ऑक्सीजन देता है वह उपचायक और जो ऑक्सीजन लेता है वह अपचायक कहलाता है।"
+    },
+    {
+      "type": "remember",
+      "text": "उपचयन के दो हानिकारक प्रभाव: संक्षारण में हवा और नमी के कारण धातु धीरे-धीरे खराब होती जाती है (लोहे में जंग, ताँबे पर हरी परत, चाँदी पर काली परत)। विकृतगंधिता में भोजन के वसा और तेल खराब होकर बुरी गंध और स्वाद देते हैं। चिप्स के पैकेट में विकृतगंधिता रोकने के लिए नाइट्रोजन गैस भरी जाती है; प्रतिऑक्सीकारक और वायुरोधी डिब्बे भी सहायक होते हैं।"
+    }
+  ],
+  "objective": [
+    {
+      "id": "c10-sci-ch01-q01",
+      "question": "निम्नलिखित में से कौन-सा रासायनिक समीकरण सही ढंग से संतुलित है?",
+      "options": [
+        "H2 + O2 → H2O",
+        "2H2 + O2 → 2H2O",
+        "H2 + O2 → 2H2O",
+        "2H2 + 2O2 → 2H2O"
+      ],
+      "answer": 1,
+      "explanation": "2H2 + O2 → 2H2O में दोनों ओर हाइड्रोजन के 4 और ऑक्सीजन के 2 परमाणु हैं, इसलिए यह समीकरण संतुलित है। बाकी विकल्पों में दोनों ओर परमाणुओं की संख्या बराबर नहीं है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q02",
+      "question": "वायु में मैग्नीशियम फीते का जलना किस प्रकार की अभिक्रिया का उदाहरण है?",
+      "options": [
+        "वियोजन अभिक्रिया",
+        "विस्थापन अभिक्रिया",
+        "संयोजन अभिक्रिया",
+        "द्विविस्थापन अभिक्रिया"
+      ],
+      "answer": 2,
+      "explanation": "मैग्नीशियम ऑक्सीजन से मिलकर एक ही उत्पाद मैग्नीशियम ऑक्साइड बनाता है (2Mg + O2 → 2MgO)। दो पदार्थों का मिलकर एक उत्पाद बनाना संयोजन अभिक्रिया है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q03",
+      "question": "अभिक्रिया Fe + CuSO4 → FeSO4 + Cu किसका उदाहरण है?",
+      "options": [
+        "विस्थापन अभिक्रिया",
+        "संयोजन अभिक्रिया",
+        "वियोजन अभिक्रिया",
+        "द्विविस्थापन अभिक्रिया"
+      ],
+      "answer": 0,
+      "explanation": "लोहा ताँबे से अधिक क्रियाशील है, इसलिए वह कॉपर सल्फेट विलयन से ताँबे को विस्थापित कर देता है। विलयन का नीला रंग हल्का पड़ जाता है और लाल-भूरा ताँबा जमा हो जाता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q04",
+      "question": "जिंक के दानों की तनु सल्फ्यूरिक अम्ल से अभिक्रिया में कौन-सी गैस निकलती है?",
+      "options": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "हाइड्रोजन",
+        "क्लोरीन"
+      ],
+      "answer": 2,
+      "explanation": "Zn + H2SO4 → ZnSO4 + H2। हाइड्रोजन गैस निकलती है, जो जलती हुई माचिस की तीली पास लाने पर पॉप की आवाज़ के साथ जलती है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q05",
+      "question": "कैल्सियम कार्बोनेट (चूना पत्थर) को तेज़ गर्म करने पर उत्पाद होते हैं:",
+      "options": [
+        "CaO + CO2",
+        "Ca + CO2",
+        "CaO + O2",
+        "Ca(OH)2 + CO2"
+      ],
+      "answer": 0,
+      "explanation": "गर्म करने पर CaCO3 → CaO + CO2। इस ऊष्मीय वियोजन से बिना बुझा चूना (कैल्सियम ऑक्साइड) और कार्बन डाइऑक्साइड गैस बनती है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q06",
+      "question": "सफेद सिल्वर क्लोराइड को धूप में रखने पर वह धूसर (ग्रे) हो जाता है। यह किसका उदाहरण है?",
+      "options": [
+        "उपचयन",
+        "संयोजन अभिक्रिया",
+        "विस्थापन अभिक्रिया",
+        "प्रकाश-रासायनिक वियोजन"
+      ],
+      "answer": 3,
+      "explanation": "प्रकाश की ऊर्जा सिल्वर क्लोराइड को सिल्वर धातु और क्लोरीन गैस में तोड़ देती है (2AgCl → 2Ag + Cl2)। प्रकाश से होने वाले वियोजन को प्रकाश-रासायनिक वियोजन कहते हैं; इसका उपयोग श्वेत-श्याम फोटोग्राफी में होता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q07",
+      "question": "अभिक्रिया CuO + H2 → Cu + H2O में किस पदार्थ का अपचयन होता है?",
+      "options": [
+        "H2",
+        "CuO",
+        "H2O",
+        "Cu"
+      ],
+      "answer": 1,
+      "explanation": "कॉपर ऑक्साइड ऑक्सीजन खोकर ताँबा बनता है, इसलिए CuO का अपचयन होता है। हाइड्रोजन ऑक्सीजन प्राप्त कर जल बनाता है, इसलिए H2 का उपचयन होता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q08",
+      "question": "चिप्स के पैकेट में विकृतगंधिता रोकने के लिए कौन-सी गैस भरी जाती है?",
+      "options": [
+        "ऑक्सीजन",
+        "हाइड्रोजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन"
+      ],
+      "answer": 3,
+      "explanation": "नाइट्रोजन एक अक्रिय गैस है। पैकेट में नाइट्रोजन भरने से तले हुए भोजन तक ऑक्सीजन नहीं पहुँचती, इसलिए तेल का उपचयन नहीं होता और चिप्स खराब नहीं होते।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q09",
+      "question": "बिना बुझे चूने (CaO) की जल से अभिक्रिया है:",
+      "options": [
+        "ऊष्माशोषी अभिक्रिया",
+        "ऊष्माक्षेपी अभिक्रिया",
+        "वियोजन अभिक्रिया",
+        "विस्थापन अभिक्रिया"
+      ],
+      "answer": 1,
+      "explanation": "CaO + H2O → Ca(OH)2 में बहुत अधिक ऊष्मा निकलती है, जिससे बर्तन गर्म हो जाता है। जिस अभिक्रिया में ऊष्मा बाहर निकले वह ऊष्माक्षेपी होती है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q10",
+      "question": "लोहे में जंग लगना किसका उदाहरण है?",
+      "options": [
+        "अपचयन",
+        "वियोजन",
+        "उपचयन",
+        "द्विविस्थापन"
+      ],
+      "answer": 2,
+      "explanation": "जंग लगने में लोहा नमी की उपस्थिति में धीरे-धीरे ऑक्सीजन से मिलकर जलयोजित आयरन(III) ऑक्साइड बनाता है। ऑक्सीजन प्राप्त करना उपचयन है; इस धीमी प्रक्रिया को संक्षारण कहते हैं।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c10-sci-ch01-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "रासायनिक समीकरण को संतुलित करना क्यों आवश्यक है?",
+      "answerOutline": [
+        "द्रव्यमान संरक्षण का नियम: रासायनिक अभिक्रिया में द्रव्यमान न तो बनाया जा सकता है और न नष्ट किया जा सकता है।",
+        "इसलिए प्रत्येक तत्व के परमाणुओं की संख्या अभिकारक और उत्पाद दोनों ओर बराबर होनी चाहिए।",
+        "असंतुलित समीकरण गलत ढंग से यह दिखाता है कि परमाणु बन रहे हैं या गायब हो रहे हैं।",
+        "उदाहरण: 2H2 + O2 → 2H2O संतुलित है, H2 + O2 → H2O संतुलित नहीं है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "विस्थापन अभिक्रिया क्या है? एक उदाहरण दीजिए।",
+      "answerOutline": [
+        "वह अभिक्रिया जिसमें अधिक क्रियाशील तत्व कम क्रियाशील तत्व को उसके यौगिक से हटा देता है।",
+        "उदाहरण: Zn + CuSO4 → ZnSO4 + Cu।",
+        "जिंक ताँबे से अधिक क्रियाशील है, इसलिए वह विलयन में ताँबे का स्थान ले लेता है।",
+        "कॉपर सल्फेट विलयन का नीला रंग हल्का पड़ जाता है और लाल-भूरा ताँबा जमा हो जाता है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "रासायनिक अभिक्रियाओं के विभिन्न प्रकारों का वर्णन कीजिए और प्रत्येक के लिए एक संतुलित समीकरण लिखिए।",
+      "answerOutline": [
+        "संयोजन: दो या अधिक पदार्थ मिलकर एक उत्पाद बनाते हैं, जैसे CaO + H2O → Ca(OH)2।",
+        "वियोजन: एक यौगिक ऊष्मा, प्रकाश या विद्युत से सरल पदार्थों में टूटता है, जैसे CaCO3 → CaO + CO2 (ऊष्मा); 2H2O → 2H2 + O2 (विद्युत)।",
+        "विस्थापन: अधिक क्रियाशील तत्व कम क्रियाशील तत्व का स्थान लेता है, जैसे Fe + CuSO4 → FeSO4 + Cu।",
+        "द्विविस्थापन: दो यौगिक आयनों की अदला-बदली करते हैं, जैसे Na2SO4 + BaCl2 → BaSO4 + 2NaCl (BaSO4 का सफेद अवक्षेप)।",
+        "रेडॉक्स: उपचयन और अपचयन साथ-साथ होते हैं, जैसे CuO + H2 → Cu + H2O।",
+        "यह भी लिखें कि अभिक्रियाएँ ऊष्माक्षेपी (ऊष्मा निकलती है) या ऊष्माशोषी (ऊष्मा अवशोषित होती है) हो सकती हैं।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "उपचयन और अपचयन क्या हैं? उदाहरण सहित समझाइए। संक्षारण और विकृतगंधिता क्या हैं और इन्हें कैसे रोका जा सकता है?",
+      "answerOutline": [
+        "उपचयन: ऑक्सीजन का प्राप्त होना या हाइड्रोजन का निकलना। अपचयन: ऑक्सीजन का निकलना या हाइड्रोजन का प्राप्त होना। दोनों साथ-साथ होते हैं (रेडॉक्स)।",
+        "उदाहरण: CuO + H2 → Cu + H2O। CuO का अपचयन होकर Cu बनता है; H2 का उपचयन होकर H2O बनता है। CuO उपचायक है, H2 अपचायक है।",
+        "संक्षारण: हवा, नमी या रसायनों से धातु का धीरे-धीरे नष्ट होना, जैसे लोहे में जंग (लाल-भूरा Fe2O3·xH2O), चाँदी पर काली परत, ताँबे पर हरी परत।",
+        "संक्षारण से बचाव: पेंट करना, तेल या ग्रीस लगाना, यशदलेपन (जिंक की परत), मिश्रधातु बनाना।",
+        "विकृतगंधिता: भोजन के वसा और तेल का उपचयन, जिससे गंध और स्वाद खराब हो जाता है।",
+        "विकृतगंधिता से बचाव: प्रतिऑक्सीकारक मिलाना, वायुरोधी डिब्बे, फ्रिज में रखना, पैकेट में नाइट्रोजन भरना।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

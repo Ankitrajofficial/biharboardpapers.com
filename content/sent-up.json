@@ -1,0 +1,51 @@
+{
+  "status": "sample",
+  "source": "Sample checklist written by AR Group Ventures editorial team. Verify against your school's sent-up notice.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "checklist": {
+    "hi": [
+      "सेंट-अप परीक्षा की तारीख और समय-सारणी स्कूल से लिखकर रखें",
+      "हर विषय के ऑब्जेक्टिव प्रश्न रोज़ 20 मिनट हल करें",
+      "पिछले साल का मॉडल पेपर समय लगाकर हल करें",
+      "प्रैक्टिकल कॉपी पूरी करके शिक्षक से हस्ताक्षर करवाएँ",
+      "OMR भरने का अभ्यास करें — गोले पूरी तरह भरें, कटिंग न करें",
+      "एडमिट कार्ड, पेन (नीला/काला), और स्कूल आईडी तैयार रखें"
+    ],
+    "en": [
+      "Note the sent-up exam dates and timetable from your school",
+      "Solve objective questions of every subject for 20 minutes daily",
+      "Solve last year's model paper with a timer",
+      "Complete the practical copy and get it signed by the teacher",
+      "Practise filling the OMR sheet — fill bubbles fully, no overwriting",
+      "Keep the admit card, blue/black pen and school ID ready"
+    ]
+  },
+  "practical": [
+    {
+      "subjectId": "physics",
+      "class": "class-12",
+      "questions": {
+        "hi": ["ओम के नियम के प्रयोग में कौन-कौन से उपकरण लगते हैं?", "वोल्टमीटर को परिपथ में समांतर क्रम में क्यों जोड़ा जाता है?", "मीटर ब्रिज का सिद्धांत क्या है?", "उत्तल लेंस की फोकस दूरी ज्ञात करने की विधि बताइए।", "गैल्वेनोमीटर और अमीटर में क्या अंतर है?"],
+        "en": ["Which apparatus is used in the Ohm's law experiment?", "Why is a voltmeter connected in parallel in a circuit?", "What is the principle of a metre bridge?", "Describe the method to find the focal length of a convex lens.", "What is the difference between a galvanometer and an ammeter?"]
+      }
+    },
+    {
+      "subjectId": "chemistry",
+      "class": "class-12",
+      "questions": {
+        "hi": ["अनुमापन में सूचक (indicator) का क्या काम है?", "लवण विश्लेषण में समूह अभिकर्मक क्या होते हैं?", "मोहर लवण का सूत्र लिखिए।", "ब्यूरेट और पिपेट में क्या अंतर है?", "किसी विलयन की मोलरता की परिभाषा दीजिए।"],
+        "en": ["What is the role of an indicator in titration?", "What are group reagents in salt analysis?", "Write the formula of Mohr's salt.", "What is the difference between a burette and a pipette?", "Define molarity of a solution."]
+      }
+    },
+    {
+      "subjectId": "biology",
+      "class": "class-12",
+      "questions": {
+        "hi": ["सूक्ष्मदर्शी के मुख्य भागों के नाम बताइए।", "समसूत्री विभाजन की कौन-सी अवस्था स्लाइड पर सबसे आसानी से दिखती है?", "पराग अंकुरण के प्रयोग में कौन-सा विलयन लिया जाता है?", "डीएनए को अलग करने में डिटर्जेंट क्यों मिलाया जाता है?", "परागण के दो प्रकार लिखिए।"],
+        "en": ["Name the main parts of a microscope.", "Which stage of mitosis is seen most easily on a slide?", "Which solution is used in the pollen germination experiment?", "Why is detergent added while isolating DNA?", "Write two types of pollination."]
+      }
+    }
+  ]
+}

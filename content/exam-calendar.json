@@ -1,0 +1,24 @@
+{
+  "_comment": "UPDATE FROM THE OFFICIAL BSEB DATE SHEET. Dates with status 'expected' are estimates based on the usual February schedule and must be replaced with the official programme (biharboardonline.bihar.gov.in) as soon as it is published. Only then change status to 'official' and set sourceUrl to the notice.",
+  "updated": "2026-11-01",
+  "exams": [
+    {
+      "class": "class-12",
+      "year": 2027,
+      "status": "expected",
+      "start": "2027-02-01",
+      "end": "2027-02-11",
+      "note": "Intermediate (Arts, Science, Commerce) annual examination — expected dates",
+      "sourceUrl": "https://biharboardonline.bihar.gov.in"
+    },
+    {
+      "class": "class-10",
+      "year": 2027,
+      "status": "expected",
+      "start": "2027-02-17",
+      "end": "2027-02-25",
+      "note": "Matric annual examination — expected dates",
+      "sourceUrl": "https://biharboardonline.bihar.gov.in"
+    }
+  ]
+}

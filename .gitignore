@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+dev-dist
+server/data/
+.env
+.env.local
+.env.*.local
+playwright-report
+test-results
+lighthouse-report*
+.DS_Store

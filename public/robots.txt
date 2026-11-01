@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /my-study
+Disallow: /login
+Sitemap: https://biharboardpadhai.in/sitemap.xml

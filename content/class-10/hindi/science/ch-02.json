@@ -1,0 +1,345 @@
+{
+  "id": "c10-sci-ch02",
+  "class": "class-10",
+  "medium": "hindi",
+  "subjectId": "science",
+  "chapterNumber": 2,
+  "syllabus": {
+    "section": "रसायन शास्त्र",
+    "no": 2
+  },
+  "slug": "amla-ksharak-evam-lavan",
+  "title": "अम्ल, क्षारक एवं लवण",
+  "aliases": [
+    "अम्ल क्षारक लवण",
+    "अम्ल क्षार और लवण",
+    "pH पैमाना",
+    "amla ksharak lavan",
+    "amla kshar aur lavan",
+    "acids bases and salts",
+    "acid base salt",
+    "vigyan class 10 adhyay 2"
+  ],
+  "summary": "अम्ल और क्षारक के गुण, सूचक, pH पैमाना और दैनिक जीवन में उसका महत्व, तथा बेकिंग सोडा, धोने का सोडा और प्लास्टर ऑफ पेरिस जैसे महत्वपूर्ण लवण।",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "विज्ञान, कक्षा 10 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?jhsc1=0-13"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "अम्ल और क्षारक"
+    },
+    {
+      "type": "paragraph",
+      "text": "अम्ल स्वाद में खट्टे होते हैं, नीले लिटमस को लाल कर देते हैं और जल में घुलने पर हाइड्रोजन आयन (H+) देते हैं। हाइड्रोक्लोरिक अम्ल (HCl), सल्फ्यूरिक अम्ल (H2SO4), नाइट्रिक अम्ल (HNO3) तथा नींबू, सिरका और दही में पाए जाने वाले दुर्बल अम्ल इसके उदाहरण हैं। क्षारक स्वाद में कड़वे होते हैं, छूने पर साबुन जैसे लगते हैं, लाल लिटमस को नीला कर देते हैं और जल में हाइड्रॉक्साइड आयन (OH-) देते हैं। सोडियम हाइड्रॉक्साइड (NaOH), पोटैशियम हाइड्रॉक्साइड (KOH) और कैल्सियम हाइड्रॉक्साइड Ca(OH)2 इसके उदाहरण हैं। जल में घुलने वाले क्षारक को क्षार कहते हैं। इन आयनों के कारण अम्ल और क्षारक विलयन में विद्युत का चालन करते हैं।"
+    },
+    {
+      "type": "list",
+      "items": [
+        "लिटमस: लाइकेन से प्राप्त प्राकृतिक रंजक; अम्ल में लाल, क्षारक में नीला, उदासीन में बैंगनी।",
+        "फीनॉल्फ्थेलीन: अम्ल में रंगहीन, क्षारक में गुलाबी।",
+        "मेथिल ऑरेंज: अम्ल में लाल, क्षारक में पीला।",
+        "हल्दी: अम्ल में पीली ही रहती है, क्षारक में लाल-भूरी हो जाती है (कपड़े पर हल्दी का दाग साबुन लगाने पर लाल हो जाता है)।",
+        "गंधीय सूचक जैसे प्याज, वनीला और लौंग का तेल अम्लीय या क्षारकीय विलयन में अपनी गंध बदल देते हैं।"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "रासायनिक गुण"
+    },
+    {
+      "type": "formula",
+      "text": "Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g)",
+      "label": "अम्ल + धातु → लवण + हाइड्रोजन गैस (पॉप की आवाज़ के साथ जलती है)"
+    },
+    {
+      "type": "formula",
+      "text": "NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)",
+      "label": "उदासीनीकरण: क्षारक + अम्ल → लवण + जल"
+    },
+    {
+      "type": "remember",
+      "text": "तनु करते समय अम्ल को हमेशा धीरे-धीरे जल में हिलाते हुए मिलाएँ, कभी भी जल को अम्ल में न डालें। अम्ल को जल में मिलाने पर बहुत ऊष्मा निकलती है; यदि सांद्र अम्ल में जल डाला जाए तो मिश्रण उबलकर बर्तन से बाहर छलक सकता है।"
+    },
+    {
+      "type": "heading",
+      "text": "pH पैमाना"
+    },
+    {
+      "type": "paragraph",
+      "text": "pH पैमाना किसी विलयन में हाइड्रोजन आयनों की मात्रा मापता है और 0 से 14 तक होता है। pH 7 उदासीन (शुद्ध जल), 7 से कम अम्लीय और 7 से अधिक क्षारकीय होता है। pH जितना कम, अम्ल उतना प्रबल; pH जितना अधिक, क्षारक उतना प्रबल। सार्वत्रिक सूचक या pH पेपर ऐसा रंग देता है जिसे चार्ट से मिलाया जा सकता है। हमारा शरीर pH 7.0 से 7.8 के बीच काम करता है। अम्लीय वर्षा का pH 5.6 से कम होता है और यह जलीय जीवों को हानि पहुँचाती है। मुँह का pH 5.5 से नीचे जाने पर दाँतों का क्षय शुरू हो जाता है, इसलिए टूथपेस्ट क्षारकीय होता है। पेट में अधिक अम्ल को मिल्क ऑफ मैग्नीशिया Mg(OH)2 जैसे प्रतिअम्ल उदासीन करते हैं। मधुमक्खी के डंक में अम्ल होता है, जिसे बेकिंग सोडा से आराम मिलता है; बिच्छू-बूटी के डंक का उपचार डॉक के पत्तों से किया जाता है।"
+    },
+    {
+      "type": "heading",
+      "text": "महत्वपूर्ण लवण और उनका निर्माण"
+    },
+    {
+      "type": "list",
+      "items": [
+        "साधारण नमक (NaCl): समुद्री जल और सेंधा नमक से प्राप्त; NaOH, बेकिंग सोडा, धोने का सोडा और विरंजक चूर्ण का कच्चा माल।",
+        "सोडियम हाइड्रॉक्साइड (NaOH): क्लोर-क्षार प्रक्रम से, अर्थात लवण जल (ब्राइन) के विद्युत अपघटन से बनता है। 2NaCl + 2H2O → 2NaOH + Cl2 + H2। क्लोरीन ऐनोड पर और हाइड्रोजन कैथोड पर बनती है।",
+        "विरंजक चूर्ण (CaOCl2): शुष्क बुझे चूने पर क्लोरीन प्रवाहित करने से, Ca(OH)2 + Cl2 → CaOCl2 + H2O। कपड़े और कागज़ के विरंजन तथा पीने के जल को रोगाणुमुक्त करने में उपयोगी।",
+        "बेकिंग सोडा (NaHCO3): NaCl + H2O + CO2 + NH3 → NH4Cl + NaHCO3। एक मृदु, असंक्षारक क्षारक जो बेकिंग पाउडर, प्रतिअम्ल और सोडा-अम्ल अग्निशामक में उपयोग होता है।",
+        "धोने का सोडा (Na2CO3·10H2O): बेकिंग सोडा को गर्म करके Na2CO3 बनाते हैं, फिर पुनः क्रिस्टलीकरण करते हैं। काँच, साबुन और कागज़ उद्योग में तथा जल की स्थायी कठोरता दूर करने में उपयोगी।",
+        "प्लास्टर ऑफ पेरिस (CaSO4·½H2O): जिप्सम को 373 K (100 °C) पर गर्म करके बनता है। जल में मिलाने पर कठोर जिप्सम में जम जाता है; टूटी हड्डी के प्लास्टर, खिलौनों और सजावट में उपयोगी।"
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "क्रिस्टलन जल किसी क्रिस्टलीय लवण के एक सूत्र इकाई में उपस्थित जल के अणुओं की निश्चित संख्या है। नीले कॉपर सल्फेट के क्रिस्टल (CuSO4·5H2O) गर्म करने पर यह जल खोकर सफेद हो जाते हैं और जल मिलाने पर फिर नीले हो जाते हैं। जिप्सम CaSO4·2H2O है और धोने का सोडा Na2CO3·10H2O है।"
+    }
+  ],
+  "objective": [
+    {
+      "id": "c10-sci-ch02-q01",
+      "question": "क्षारकीय विलयन में फीनॉल्फ्थेलीन कौन-सा रंग दिखाता है?",
+      "options": [
+        "रंगहीन",
+        "लाल",
+        "गुलाबी",
+        "पीला"
+      ],
+      "answer": 2,
+      "explanation": "फीनॉल्फ्थेलीन अम्लीय और उदासीन विलयन में रंगहीन रहता है परंतु क्षारकीय विलयन में गुलाबी हो जाता है। इसीलिए इसका उपयोग अम्ल-क्षारक अनुमापन में किया जाता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q02",
+      "question": "अम्ल की किसी क्रियाशील धातु से अभिक्रिया में कौन-सी गैस बनती है?",
+      "options": [
+        "ऑक्सीजन",
+        "हाइड्रोजन",
+        "कार्बन डाइऑक्साइड",
+        "क्लोरीन"
+      ],
+      "answer": 1,
+      "explanation": "अम्ल + धातु → लवण + हाइड्रोजन, जैसे Zn + 2HCl → ZnCl2 + H2। जलती हुई तीली पास लाने पर हाइड्रोजन गैस पॉप की आवाज़ के साथ जलती है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q03",
+      "question": "शुद्ध जल जैसे उदासीन विलयन का pH होता है:",
+      "options": [
+        "0",
+        "14",
+        "7",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "pH पैमाने पर 7 उदासीन होता है। 7 से कम मान अम्लीय विलयन और 7 से अधिक मान क्षारकीय विलयन दर्शाते हैं।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q04",
+      "question": "निम्नलिखित में से कौन-सा प्रबल अम्ल है?",
+      "options": [
+        "ऐसीटिक अम्ल",
+        "सिट्रिक अम्ल",
+        "कार्बोनिक अम्ल",
+        "हाइड्रोक्लोरिक अम्ल"
+      ],
+      "answer": 3,
+      "explanation": "हाइड्रोक्लोरिक अम्ल जल में पूरी तरह H+ और Cl- आयनों में टूट जाता है, इसलिए यह प्रबल अम्ल है। ऐसीटिक, सिट्रिक और कार्बोनिक अम्ल आंशिक रूप से ही आयनित होते हैं और दुर्बल अम्ल हैं।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q05",
+      "question": "बेकिंग सोडा का रासायनिक सूत्र है:",
+      "options": [
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH",
+        "NaCl"
+      ],
+      "answer": 1,
+      "explanation": "बेकिंग सोडा सोडियम हाइड्रोजनकार्बोनेट NaHCO3 है। Na2CO3 धोने का सोडा (निर्जल), NaOH कास्टिक सोडा और NaCl साधारण नमक है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q06",
+      "question": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र है:",
+      "options": [
+        "CaSO4·2H2O",
+        "CaSO4",
+        "CaSO4·½H2O",
+        "CaCO3"
+      ],
+      "answer": 2,
+      "explanation": "प्लास्टर ऑफ पेरिस कैल्सियम सल्फेट हेमीहाइड्रेट CaSO4·½H2O है, जो जिप्सम (CaSO4·2H2O) को 373 K पर गर्म करके बनाया जाता है। CaCO3 चूना पत्थर है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q07",
+      "question": "मुँह का pH कितने से नीचे जाने पर दाँतों का क्षय शुरू होता है?",
+      "options": [
+        "7",
+        "5.5",
+        "6.5",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "दाँतों का इनैमल (कैल्सियम हाइड्रॉक्सीऐपेटाइट) शरीर का सबसे कठोर पदार्थ है, परंतु मुँह का pH 5.5 से नीचे जाने पर यह घुलने लगता है। जीवाणु बचे हुए शर्करा से अम्ल बनाते हैं, इसलिए क्षारकीय टूथपेस्ट उसे उदासीन करने में मदद करता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q08",
+      "question": "क्लोर-क्षार प्रक्रम के उत्पाद हैं:",
+      "options": [
+        "NaOH, Cl2 और H2",
+        "NaCl और H2O",
+        "Na और Cl2",
+        "NaOH और O2"
+      ],
+      "answer": 0,
+      "explanation": "लवण जल (ब्राइन) के विद्युत अपघटन से सोडियम हाइड्रॉक्साइड, क्लोरीन गैस (ऐनोड पर) और हाइड्रोजन गैस (कैथोड पर) बनती है: 2NaCl + 2H2O → 2NaOH + Cl2 + H2। यह नाम उत्पादों क्लोर (क्लोरीन) और क्षार (NaOH) से पड़ा है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q09",
+      "question": "विरंजक चूर्ण किस पर क्लोरीन गैस प्रवाहित करके बनाया जाता है?",
+      "options": [
+        "बिना बुझा चूना",
+        "चूना पत्थर",
+        "शुष्क बुझा चूना",
+        "जिप्सम"
+      ],
+      "answer": 2,
+      "explanation": "क्लोरीन शुष्क बुझे चूने Ca(OH)2 से अभिक्रिया करके विरंजक चूर्ण बनाती है: Ca(OH)2 + Cl2 → CaOCl2 + H2O। इसका उपयोग विरंजन और जल को रोगाणुमुक्त करने में होता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q10",
+      "question": "निम्नलिखित में से कौन-सा गंधीय सूचक है?",
+      "options": [
+        "लिटमस",
+        "फीनॉल्फ्थेलीन",
+        "मेथिल ऑरेंज",
+        "प्याज"
+      ],
+      "answer": 3,
+      "explanation": "गंधीय सूचक अम्लीय या क्षारकीय विलयन में अपनी गंध बदल देता है। प्याज, वनीला एसेंस और लौंग का तेल गंधीय सूचक हैं; बाकी तीनों रंग बदलते हैं।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c10-sci-ch02-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "उदासीनीकरण अभिक्रिया क्या है? एक समीकरण लिखिए।",
+      "answerOutline": [
+        "वह अभिक्रिया जिसमें अम्ल और क्षारक मिलकर लवण और जल बनाते हैं।",
+        "अम्ल के H+ आयन और क्षारक के OH- आयन मिलकर जल बनाते हैं, जिससे विलयन उदासीन हो जाता है।",
+        "उदाहरण: NaOH + HCl → NaCl + H2O।",
+        "दैनिक जीवन में उपयोग: प्रतिअम्ल पेट के अधिक अम्ल को उदासीन करते हैं; अम्लीय मिट्टी में चूना मिलाया जाता है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "तनु करते समय अम्ल को जल में मिलाया जाता है, जल को अम्ल में क्यों नहीं?",
+      "answerOutline": [
+        "सांद्र अम्ल को जल में घोलने पर बहुत अधिक ऊष्मा निकलती है (अत्यधिक ऊष्माक्षेपी)।",
+        "यदि अम्ल में जल डाला जाए तो थोड़े से जल में ऊष्मा पैदा होती है, जो अचानक उबलकर अम्ल को बाहर छलका सकता है।",
+        "अम्ल को अधिक मात्रा के जल में धीरे-धीरे हिलाते हुए मिलाने से ऊष्मा फैल जाती है और यह सुरक्षित रहता है।",
+        "इससे प्रति इकाई आयतन आयनों की सांद्रता भी धीरे-धीरे घटती है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "pH पैमाना क्या है? दैनिक जीवन में pH के महत्व को उदाहरण सहित समझाइए।",
+      "answerOutline": [
+        "pH पैमाना: 0 से 14 तक का पैमाना जो विलयन में हाइड्रोजन आयन की सांद्रता मापता है; 7 उदासीन, 7 से कम अम्लीय, 7 से अधिक क्षारकीय। सार्वत्रिक सूचक या pH पेपर से मापा जाता है।",
+        "सजीव: हमारा शरीर pH 7.0 से 7.8 की संकरी सीमा में काम करता है; अम्लीय वर्षा (pH 5.6 से कम) नदियों की मछलियों और पौधों को हानि पहुँचाती है।",
+        "मिट्टी: पौधों को एक निश्चित pH चाहिए; अम्लीय मिट्टी का उपचार बिना बुझे या बुझे चूने से और क्षारकीय मिट्टी का जैविक पदार्थ से किया जाता है।",
+        "पाचन: पेट में HCl बनता है; अधिक अम्ल से अपच होती है, जिसे प्रतिअम्ल (मिल्क ऑफ मैग्नीशिया) उदासीन करते हैं।",
+        "दाँत: pH 5.5 से नीचे इनैमल घुलने लगता है, इसलिए क्षय रोकने के लिए क्षारकीय टूथपेस्ट का उपयोग होता है।",
+        "डंक: मधुमक्खी का डंक अम्ल छोड़ता है, बेकिंग सोडा से आराम मिलता है; बिच्छू-बूटी के डंक में डॉक के पत्तों से आराम मिलता है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "बेकिंग सोडा और प्लास्टर ऑफ पेरिस के निर्माण, गुण और उपयोग का वर्णन कीजिए।",
+      "answerOutline": [
+        "बेकिंग सोडा (NaHCO3) का निर्माण: NaCl + H2O + CO2 + NH3 → NH4Cl + NaHCO3।",
+        "गुण: मृदु, असंक्षारक क्षारक; गर्म करने पर धोने का सोडा, जल और CO2 देता है (2NaHCO3 → Na2CO3 + H2O + CO2)।",
+        "उपयोग: बेकिंग पाउडर में (टार्टरिक अम्ल के साथ) केक को नरम और स्पंजी बनाने के लिए; प्रतिअम्ल के रूप में; सोडा-अम्ल अग्निशामक में।",
+        "प्लास्टर ऑफ पेरिस (CaSO4·½H2O) का निर्माण: जिप्सम को 373 K पर सावधानी से गर्म करने पर वह अपने क्रिस्टलन जल का कुछ भाग खो देता है।",
+        "गुण: सफेद चूर्ण जो जल में मिलाने पर जिप्सम (CaSO4·2H2O) के कठोर ठोस में जम जाता है; इसे नमीरोधी डिब्बे में रखना चाहिए।",
+        "उपयोग: टूटी हड्डियों को सहारा देने, खिलौने, सजावटी सामान और चिकनी सतह बनाने तथा दरारें भरने में।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "c12-his-ch01",
+  "class": "class-12",
+  "medium": "english",
+  "subjectId": "history",
+  "chapterNumber": 1,
+  "syllabus": {
+    "section": "Part I",
+    "no": 1
+  },
+  "slug": "bricks-beads-and-bones",
+  "title": "Bricks, Beads and Bones: The Harappan Civilisation",
+  "aliases": [
+    "harappa",
+    "harappan civilisation",
+    "indus valley civilisation",
+    "sindhu ghati",
+    "mohenjodaro",
+    "हड़प्पा",
+    "bricks beads bones",
+    "hadappa sabhyata"
+  ],
+  "summary": "The first cities of the subcontinent: sites, town planning, crafts, trade, seals and the decline of the Harappan civilisation (c. 2600-1900 BCE).",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "Themes in Indian History Part I, Class 12 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?lehs1=0-4"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Harappan or Indus Valley civilisation is the earliest urban culture of the Indian subcontinent. It takes its name from Harappa, the first site to be excavated, in present-day Punjab, Pakistan. Archaeologists divide it into three phases: Early Harappan (before 2600 BCE), Mature Harappan (c. 2600-1900 BCE) and Late Harappan (after 1900 BCE). Most of what we know about cities, crafts and trade comes from the Mature phase."
+    },
+    {
+      "type": "heading",
+      "text": "Important sites"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Harappa (Punjab, Pakistan): the first site discovered, 1921.",
+        "Mohenjodaro (Sindh, Pakistan): the largest site; home of the Great Bath.",
+        "Kalibangan (Rajasthan): evidence of a ploughed field and fire altars.",
+        "Lothal (Gujarat): a dockyard and a bead-making workshop.",
+        "Dholavira (Gujarat): stone water reservoirs and a large signboard inscription.",
+        "Rakhigarhi (Haryana): the largest Harappan site in India.",
+        "Chanhudaro (Sindh): a centre of bead making.",
+        "Shortughai (Afghanistan): an outpost set up near sources of lapis lazuli."
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "Mature Harappan phase: c. 2600-1900 BCE. Harappa was reported by Daya Ram Sahni (1921) and Mohenjodaro by Rakhal Das Banerji (1922); John Marshall announced the discovery of the civilisation to the world in 1924."
+    },
+    {
+      "type": "heading",
+      "text": "Town planning and drainage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harappan cities were usually divided into two parts: a raised, walled Citadel and a Lower Town. Streets crossed each other at right angles in a grid, and houses opened onto an inner courtyard rather than onto the street. Baked bricks were made in a fixed ratio of 1:2:4 (height:width:length). Covered drains ran under the streets with inspection holes at intervals for cleaning. The Great Bath at Mohenjodaro is a water-tight tank with steps on two sides; it was probably used for special ritual bathing."
+    },
+    {
+      "type": "heading",
+      "text": "Economy, crafts and trade"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Food: wheat, barley, lentils, chickpea, sesame and millets; rice is rare.",
+        "Animal bones: cattle, sheep, goat, buffalo and pig; fish as well.",
+        "Crafts: beads of carnelian, jasper, steatite, shell and faience; cubical weights of chert in a binary series (1, 2, 4, 8 ...).",
+        "Raw materials: shell from Nageshwar and Balakot, lapis lazuli from Shortughai, carnelian from Bharuch, copper from Khetri (Rajasthan) and from Oman.",
+        "Long-distance contact with Mesopotamia, whose texts probably call the Harappan region 'Meluhha'; Harappan seals have been found in Mesopotamian cities."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Seals, script and the end of the civilisation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Steatite seals carry animal motifs and short lines of script, written mostly from right to left. The script has about 375-400 signs and has not yet been deciphered. After 1900 BCE cities were gradually abandoned, writing and seals disappeared and settlements became smaller. Suggested causes include climate change, deforestation, floods, the drying up or shifting of rivers and overuse of the land. The idea of an 'Aryan invasion' suggested by Wheeler is not accepted today."
+    },
+    {
+      "type": "remember",
+      "text": "Harappan script: undeciphered, written right to left, about 400 signs. Cunningham (first Director-General of the Archaeological Survey of India) saw Harappa in the 1870s but did not recognise its age; R. E. M. Wheeler became Director-General in 1944 and began excavation based on stratigraphy."
+    }
+  ],
+  "objective": [
+    {
+      "id": "c12-his-ch01-q01",
+      "question": "Which was the first Harappan site to be discovered?",
+      "options": [
+        "Mohenjodaro",
+        "Harappa",
+        "Lothal",
+        "Kalibangan"
+      ],
+      "answer": 1,
+      "explanation": "Harappa in Punjab (Pakistan) was the first site excavated, in 1921 by Daya Ram Sahni. That is why the whole civilisation is named after it.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q02",
+      "question": "The Great Bath is found at which site?",
+      "options": [
+        "Harappa",
+        "Lothal",
+        "Mohenjodaro",
+        "Dholavira"
+      ],
+      "answer": 2,
+      "explanation": "The Great Bath is a large water-tight tank on the Citadel of Mohenjodaro. It was probably used for ritual bathing.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q03",
+      "question": "The Mature Harappan phase is dated to approximately:",
+      "options": [
+        "3500-2600 BCE",
+        "2600-1900 BCE",
+        "1900-1300 BCE",
+        "1500-600 BCE"
+      ],
+      "answer": 1,
+      "explanation": "The Mature Harappan phase, when the big cities flourished, is dated to about 2600-1900 BCE. The Early phase comes before it and the Late phase after it.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q04",
+      "question": "Who announced the discovery of the Harappan civilisation to the world in 1924?",
+      "options": [
+        "Alexander Cunningham",
+        "Daya Ram Sahni",
+        "R. E. M. Wheeler",
+        "John Marshall"
+      ],
+      "answer": 3,
+      "explanation": "John Marshall, Director-General of the Archaeological Survey of India, announced the discovery in 1924 after the finds at Harappa and Mohenjodaro.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q05",
+      "question": "A dockyard has been found at which Harappan site?",
+      "options": [
+        "Dholavira",
+        "Kalibangan",
+        "Lothal",
+        "Rakhigarhi"
+      ],
+      "answer": 2,
+      "explanation": "Lothal in Gujarat had a large brick structure identified as a dockyard, showing that the Harappans traded by sea.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q06",
+      "question": "Evidence of a ploughed field has been found at:",
+      "options": [
+        "Kalibangan",
+        "Banawali",
+        "Chanhudaro",
+        "Harappa"
+      ],
+      "answer": 0,
+      "explanation": "At Kalibangan in Rajasthan archaeologists found a field with two sets of furrows crossing each other, dating to the Early Harappan period.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q07",
+      "question": "Harappan seals were mostly made of which material?",
+      "options": [
+        "Copper",
+        "Terracotta",
+        "Steatite",
+        "Gold"
+      ],
+      "answer": 2,
+      "explanation": "Most Harappan seals were cut from steatite, a soft stone, and carry an animal figure with a line of script above it.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q08",
+      "question": "Harappan bricks were made in which fixed ratio (height:width:length)?",
+      "options": [
+        "1:1:2",
+        "1:2:3",
+        "1:2:4",
+        "2:3:4"
+      ],
+      "answer": 2,
+      "explanation": "Both sun-dried and baked bricks across all Harappan settlements follow the standard ratio 1:2:4, which shows a uniform system of measurement.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q09",
+      "question": "From which place did the Harappans obtain lapis lazuli?",
+      "options": [
+        "Khetri",
+        "Shortughai",
+        "Nageshwar",
+        "Bharuch"
+      ],
+      "answer": 1,
+      "explanation": "Shortughai in Afghanistan was a Harappan settlement set up near the sources of the blue stone lapis lazuli. Khetri gave copper, Nageshwar gave shell and Bharuch gave carnelian.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-q10",
+      "question": "In Mesopotamian texts the Harappan region is probably referred to as:",
+      "options": [
+        "Dilmun",
+        "Magan",
+        "Meluhha",
+        "Oman"
+      ],
+      "answer": 2,
+      "explanation": "Mesopotamian records mention trade with Meluhha, a land of seafarers, which historians identify with the Harappan region. Dilmun and Magan are identified with Bahrain and Oman.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c12-his-ch01-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "Write the main features of the Harappan drainage system.",
+      "answerOutline": [
+        "Drains were laid out first and houses built along them; every house drain joined a street drain.",
+        "Drains were covered with bricks or stone slabs and had inspection holes at intervals for cleaning.",
+        "Bathrooms were placed on the street side so that waste water flowed straight into the drain.",
+        "Such planned drainage is found even in smaller settlements like Lothal, showing careful planning."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "What is the importance of the Great Bath of Mohenjodaro?",
+      "answerOutline": [
+        "A large rectangular tank in a courtyard on the Citadel, made water-tight with bricks and bitumen (tar).",
+        "Steps on two sides lead into it; rooms on three sides, one with a large well; used water flowed out through a drain.",
+        "Probably used for a special ritual bath, so it is taken as evidence of religious life and of the importance of the Citadel.",
+        "Shows the engineering skill and planning of the Harappans."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "Describe the town planning of the Harappan cities.",
+      "answerOutline": [
+        "Two parts: a smaller raised Citadel (walled, on a mud-brick platform) and a larger Lower Town, also walled.",
+        "Grid plan: streets and lanes crossing at right angles, with the main street running north-south.",
+        "Standard bricks in the 1:2:4 ratio; both sun-dried and baked bricks used all over the civilisation.",
+        "Houses built around a courtyard, with no windows on the street side; private wells and bathrooms; some houses had stairs to a second storey.",
+        "Covered drains with inspection holes; house drains connected to street drains.",
+        "Special structures on the Citadel such as the Great Bath and the so-called warehouse at Mohenjodaro; fortified settlements elsewhere, e.g. Dholavira with its reservoirs."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch01-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "Discuss the possible causes of the decline of the Harappan civilisation.",
+      "answerOutline": [
+        "By about 1800 BCE most Mature Harappan sites in Cholistan and Sindh were abandoned; people moved to Gujarat, Haryana and western UP.",
+        "Signs of decline: disappearance of seals, script, weights and long-distance trade; poorer houses and pottery; fewer settlements.",
+        "Environmental causes suggested: climate change, deforestation, heavy floods, drying up or shifting of rivers (e.g. the Ghaggar-Hakra).",
+        "Overuse of land and resources may have weakened the farming economy.",
+        "Wheeler's theory of an 'Aryan invasion' based on skeletons at Mohenjodaro is rejected, since the skeletons belong to different periods and show no sign of a single massacre.",
+        "Probably the strong unifying element (a ruling class or shared administration) collapsed, ending the urban phase while rural life continued."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

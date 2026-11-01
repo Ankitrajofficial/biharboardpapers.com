@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bseb-model-inter-2026",
+    "class": "class-12",
+    "mediums": ["hindi", "english"],
+    "subjectId": "all",
+    "subjectCode": "—",
+    "year": 2026,
+    "title": { "hi": "इंटर मॉडल प्रश्न पत्र 2026 (सभी विषय)", "en": "Intermediate Model Question Papers 2026 (all subjects)" },
+    "sourceType": "bseb_official_model_paper",
+    "sourceLabel": "BSEB official model paper",
+    "url": "https://biharboardonline.com/modelpaperinter.html",
+    "sizeBytes": 0,
+    "external": true
+  },
+  {
+    "id": "bseb-model-matric-2026",
+    "class": "class-10",
+    "mediums": ["hindi", "english"],
+    "subjectId": "all",
+    "subjectCode": "—",
+    "year": 2026,
+    "title": { "hi": "मैट्रिक मॉडल प्रश्न पत्र 2026 (सभी विषय)", "en": "Matric Model Question Papers 2026 (all subjects)" },
+    "sourceType": "bseb_official_model_paper",
+    "sourceLabel": "BSEB official model paper",
+    "url": "https://biharboardonline.com/modelpapermatric.html",
+    "sizeBytes": 0,
+    "external": true
+  },
+  {
+    "id": "sample-c12-physics-2027",
+    "class": "class-12",
+    "mediums": ["hindi", "english"],
+    "subjectId": "physics",
+    "subjectCode": "117",
+    "year": 2027,
+    "title": { "hi": "भौतिकी नमूना प्रश्न पत्र (हमारे द्वारा बनाया गया)", "en": "Physics sample question paper (made by us)" },
+    "sourceType": "sample",
+    "sourceLabel": "Sample (हमारे द्वारा बनाया गया / made by us)",
+    "url": "/mock-test/c12-physics-hindi-1",
+    "sizeBytes": 0,
+    "external": false
+  },
+  {
+    "id": "sample-c10-science-2027",
+    "class": "class-10",
+    "mediums": ["hindi", "english"],
+    "subjectId": "science",
+    "subjectCode": "112",
+    "year": 2027,
+    "title": { "hi": "विज्ञान नमूना प्रश्न पत्र (हमारे द्वारा बनाया गया)", "en": "Science sample question paper (made by us)" },
+    "sourceType": "sample",
+    "sourceLabel": "Sample (हमारे द्वारा बनाया गया / made by us)",
+    "url": "/mock-test/c10-science-hindi-1",
+    "sizeBytes": 0,
+    "external": false
+  }
+]

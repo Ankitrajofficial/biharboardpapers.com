@@ -1,0 +1,338 @@
+[
+  {
+    "id": "c10-sci-ch01",
+    "class": "class-10",
+    "medium": "english",
+    "subjectId": "science",
+    "chapterNumber": 1,
+    "syllabus": {
+      "section": "रसायन शास्त्र",
+      "no": 1
+    },
+    "slug": "chemical-reactions-and-equations",
+    "title": "Chemical Reactions and Equations",
+    "summary": "How substances change into new substances, how to write and balance chemical equations, and the main types of reactions.",
+    "aliases": [
+      "chemical reactions",
+      "chemical equations",
+      "balancing chemical equations",
+      "rasayanik abhikriya",
+      "rasayanik samikaran",
+      "रासायनिक अभिक्रिया",
+      "रासायनिक समीकरण",
+      "science class 10 chapter 1"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-10/english/science/ch-01.json"
+  },
+  {
+    "id": "c10-sci-ch02",
+    "class": "class-10",
+    "medium": "english",
+    "subjectId": "science",
+    "chapterNumber": 2,
+    "syllabus": {
+      "section": "रसायन शास्त्र",
+      "no": 2
+    },
+    "slug": "acids-bases-and-salts",
+    "title": "Acids, Bases and Salts",
+    "summary": "Properties of acids and bases, indicators, the pH scale and its role in daily life, and important salts such as baking soda, washing soda and plaster of Paris.",
+    "aliases": [
+      "acids bases and salts",
+      "acid base salt",
+      "pH scale",
+      "amla ksharak lavan",
+      "amla kshar aur lavan",
+      "अम्ल क्षारक लवण",
+      "अम्ल क्षार और लवण",
+      "science class 10 chapter 2"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-10/english/science/ch-02.json"
+  },
+  {
+    "id": "c10-sci-ch01",
+    "class": "class-10",
+    "medium": "hindi",
+    "subjectId": "science",
+    "chapterNumber": 1,
+    "syllabus": {
+      "section": "रसायन शास्त्र",
+      "no": 1
+    },
+    "slug": "rasayanik-abhikriya-evam-samikaran",
+    "title": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+    "summary": "पदार्थ नए पदार्थों में कैसे बदलते हैं, रासायनिक समीकरण कैसे लिखे और संतुलित किए जाते हैं, तथा अभिक्रियाओं के मुख्य प्रकार।",
+    "aliases": [
+      "रासायनिक अभिक्रिया",
+      "रासायनिक समीकरण",
+      "समीकरण संतुलित करना",
+      "rasayanik abhikriya",
+      "rasayanik samikaran",
+      "chemical reactions",
+      "chemical equations",
+      "vigyan class 10 adhyay 1"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-10/hindi/science/ch-01.json"
+  },
+  {
+    "id": "c10-sci-ch02",
+    "class": "class-10",
+    "medium": "hindi",
+    "subjectId": "science",
+    "chapterNumber": 2,
+    "syllabus": {
+      "section": "रसायन शास्त्र",
+      "no": 2
+    },
+    "slug": "amla-ksharak-evam-lavan",
+    "title": "अम्ल, क्षारक एवं लवण",
+    "summary": "अम्ल और क्षारक के गुण, सूचक, pH पैमाना और दैनिक जीवन में उसका महत्व, तथा बेकिंग सोडा, धोने का सोडा और प्लास्टर ऑफ पेरिस जैसे महत्वपूर्ण लवण।",
+    "aliases": [
+      "अम्ल क्षारक लवण",
+      "अम्ल क्षार और लवण",
+      "pH पैमाना",
+      "amla ksharak lavan",
+      "amla kshar aur lavan",
+      "acids bases and salts",
+      "acid base salt",
+      "vigyan class 10 adhyay 2"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-10/hindi/science/ch-02.json"
+  },
+  {
+    "id": "c12-his-ch01",
+    "class": "class-12",
+    "medium": "english",
+    "subjectId": "history",
+    "chapterNumber": 1,
+    "syllabus": {
+      "section": "Part I",
+      "no": 1
+    },
+    "slug": "bricks-beads-and-bones",
+    "title": "Bricks, Beads and Bones: The Harappan Civilisation",
+    "summary": "The first cities of the subcontinent: sites, town planning, crafts, trade, seals and the decline of the Harappan civilisation (c. 2600-1900 BCE).",
+    "aliases": [
+      "harappa",
+      "harappan civilisation",
+      "indus valley civilisation",
+      "sindhu ghati",
+      "mohenjodaro",
+      "हड़प्पा",
+      "bricks beads bones",
+      "hadappa sabhyata"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-12/english/history/ch-01.json"
+  },
+  {
+    "id": "c12-his-ch02",
+    "class": "class-12",
+    "medium": "english",
+    "subjectId": "history",
+    "chapterNumber": 2,
+    "syllabus": {
+      "section": "Part I",
+      "no": 2
+    },
+    "slug": "kings-farmers-and-towns",
+    "title": "Kings, Farmers and Towns: Early States and Economies",
+    "summary": "From the sixteen mahajanapadas to the Guptas (c. 600 BCE-600 CE): Magadha, the Mauryas, Ashoka's dhamma, inscriptions, coins, villages and towns.",
+    "aliases": [
+      "mauryan empire",
+      "ashoka",
+      "magadha",
+      "mahajanapadas",
+      "kings farmers towns",
+      "मौर्य साम्राज्य",
+      "maurya samrajya",
+      "gupta empire"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-12/english/history/ch-02.json"
+  },
+  {
+    "id": "c12-phy-ch01",
+    "class": "class-12",
+    "medium": "english",
+    "subjectId": "physics",
+    "chapterNumber": 1,
+    "syllabus": {
+      "section": "Part I",
+      "no": 1
+    },
+    "slug": "electric-charges-and-fields",
+    "title": "Electric Charges and Fields",
+    "summary": "Properties of electric charge, Coulomb's law, electric field and field lines, electric dipole, electric flux and Gauss's law with its applications.",
+    "aliases": [
+      "electric charge",
+      "vidyut aavesh",
+      "vaidyut aavesh aur kshetra",
+      "coulomb ka niyam",
+      "coulomb's law",
+      "gauss ka niyam",
+      "electric field",
+      "वैद्युत क्षेत्र"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-12/english/physics/ch-01.json"
+  },
+  {
+    "id": "c12-phy-ch02",
+    "class": "class-12",
+    "medium": "english",
+    "subjectId": "physics",
+    "chapterNumber": 2,
+    "syllabus": {
+      "section": "Part I",
+      "no": 2
+    },
+    "slug": "electrostatic-potential-and-capacitance",
+    "title": "Electrostatic Potential and Capacitance",
+    "summary": "Electrostatic potential, potential due to a point charge and a dipole, equipotential surfaces, potential energy, conductors and dielectrics, capacitors, their combinations and stored energy.",
+    "aliases": [
+      "electrostatic potential",
+      "vidyut vibhav",
+      "sthirvaidyut vibhav aur dharita",
+      "capacitance",
+      "capacitor",
+      "sandharitra",
+      "dharita",
+      "वैद्युत विभव"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-12/english/physics/ch-02.json"
+  },
+  {
+    "id": "c12-his-ch01",
+    "class": "class-12",
+    "medium": "hindi",
+    "subjectId": "history",
+    "chapterNumber": 1,
+    "syllabus": {
+      "section": "Part I",
+      "no": 1
+    },
+    "slug": "eenten-manke-tatha-asthiyan",
+    "title": "ईंटें, मनके तथा अस्थियाँ: हड़प्पा सभ्यता",
+    "summary": "उपमहाद्वीप के पहले नगर: हड़प्पा सभ्यता (लगभग 2600-1900 ईसा पूर्व) के स्थल, नगर योजना, शिल्प, व्यापार, मुहरें और पतन।",
+    "aliases": [
+      "harappa",
+      "hadappa sabhyata",
+      "sindhu ghati sabhyata",
+      "हड़प्पा",
+      "सिंधु घाटी",
+      "mohenjodaro",
+      "indus valley civilisation",
+      "eenten manke asthiyan"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-12/hindi/history/ch-01.json"
+  },
+  {
+    "id": "c12-his-ch02",
+    "class": "class-12",
+    "medium": "hindi",
+    "subjectId": "history",
+    "chapterNumber": 2,
+    "syllabus": {
+      "section": "Part I",
+      "no": 2
+    },
+    "slug": "raja-kisan-aur-nagar",
+    "title": "राजा, किसान और नगर: आरंभिक राज्य और अर्थव्यवस्थाएँ",
+    "summary": "सोलह महाजनपदों से गुप्तों तक (लगभग 600 ईसा पूर्व-600 ईस्वी): मगध, मौर्य, अशोक का धम्म, अभिलेख, सिक्के, गाँव और नगर।",
+    "aliases": [
+      "mauryan empire",
+      "maurya samrajya",
+      "ashoka",
+      "ashok",
+      "मौर्य",
+      "अशोक",
+      "magadh",
+      "raja kisan nagar"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-12/hindi/history/ch-02.json"
+  },
+  {
+    "id": "c12-phy-ch01",
+    "class": "class-12",
+    "medium": "hindi",
+    "subjectId": "physics",
+    "chapterNumber": 1,
+    "syllabus": {
+      "section": "Part I",
+      "no": 1
+    },
+    "slug": "vaidyut-aavesh-tatha-kshetra",
+    "title": "वैद्युत आवेश तथा क्षेत्र",
+    "summary": "वैद्युत आवेश के गुण, कूलॉम का नियम, वैद्युत क्षेत्र और क्षेत्र रेखाएँ, वैद्युत द्विध्रुव, वैद्युत फ्लक्स तथा गाउस का नियम और उसके अनुप्रयोग।",
+    "aliases": [
+      "electric charge",
+      "vidyut aavesh",
+      "vaidyut aavesh aur kshetra",
+      "coulomb ka niyam",
+      "coulomb's law",
+      "gauss ka niyam",
+      "electric field",
+      "वैद्युत क्षेत्र"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-12/hindi/physics/ch-01.json"
+  },
+  {
+    "id": "c12-phy-ch02",
+    "class": "class-12",
+    "medium": "hindi",
+    "subjectId": "physics",
+    "chapterNumber": 2,
+    "syllabus": {
+      "section": "Part I",
+      "no": 2
+    },
+    "slug": "sthirvaidyut-vibhav-tatha-dharita",
+    "title": "स्थिरवैद्युत विभव तथा धारिता",
+    "summary": "स्थिरवैद्युत विभव, बिंदु आवेश और द्विध्रुव के कारण विभव, समविभव पृष्ठ, स्थितिज ऊर्जा, चालक और परावैद्युत, संधारित्र, उनके संयोजन तथा संचित ऊर्जा।",
+    "aliases": [
+      "electrostatic potential",
+      "vidyut vibhav",
+      "sthirvaidyut vibhav aur dharita",
+      "capacitance",
+      "capacitor",
+      "sandharitra",
+      "dharita",
+      "वैद्युत विभव"
+    ],
+    "status": "sample",
+    "objectiveCount": 10,
+    "importantCount": 4,
+    "file": "class-12/hindi/physics/ch-02.json"
+  }
+]

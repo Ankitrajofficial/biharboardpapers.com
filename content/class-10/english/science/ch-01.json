@@ -1,0 +1,338 @@
+{
+  "id": "c10-sci-ch01",
+  "class": "class-10",
+  "medium": "english",
+  "subjectId": "science",
+  "chapterNumber": 1,
+  "syllabus": {
+    "section": "रसायन शास्त्र",
+    "no": 1
+  },
+  "slug": "chemical-reactions-and-equations",
+  "title": "Chemical Reactions and Equations",
+  "aliases": [
+    "chemical reactions",
+    "chemical equations",
+    "balancing chemical equations",
+    "rasayanik abhikriya",
+    "rasayanik samikaran",
+    "रासायनिक अभिक्रिया",
+    "रासायनिक समीकरण",
+    "science class 10 chapter 1"
+  ],
+  "summary": "How substances change into new substances, how to write and balance chemical equations, and the main types of reactions.",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "Science, Class 10 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?jesc1=0-13"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "What is a chemical reaction?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A chemical reaction is a process in which one or more substances (reactants) change into one or more new substances (products) with different properties. Everyday examples are milk turning sour, iron rusting, food being digested and a magnesium ribbon burning with a bright white flame. A reaction may be recognised by a change in colour, a change of state, release of a gas, or a change in temperature."
+    },
+    {
+      "type": "heading",
+      "text": "Chemical equations and balancing"
+    },
+    {
+      "type": "paragraph",
+      "text": "A chemical equation is a short way of writing a reaction using symbols and formulae. Reactants are written on the left, products on the right, and an arrow shows the direction of change. According to the law of conservation of mass, matter is neither created nor destroyed, so the number of atoms of each element must be the same on both sides. An equation with equal atoms on both sides is called a balanced equation. Physical states are shown as (s) solid, (l) liquid, (g) gas and (aq) aqueous."
+    },
+    {
+      "type": "formula",
+      "text": "2Mg(s) + O2(g) → 2MgO(s)",
+      "label": "Burning of magnesium ribbon (balanced combination reaction)"
+    },
+    {
+      "type": "formula",
+      "text": "Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s)",
+      "label": "Displacement: iron pushes copper out of copper sulphate solution"
+    },
+    {
+      "type": "heading",
+      "text": "Types of chemical reactions"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Combination: two or more substances join to form one product, e.g. CaO + H2O → Ca(OH)2 (quicklime and water, gives out heat).",
+        "Decomposition: one substance breaks into two or more simpler ones using heat, light or electricity, e.g. CaCO3 → CaO + CO2 on heating; 2AgCl → 2Ag + Cl2 in sunlight.",
+        "Displacement: a more reactive element pushes a less reactive one out of its compound, e.g. Zn + CuSO4 → ZnSO4 + Cu.",
+        "Double displacement: two compounds exchange their ions, often forming a precipitate, e.g. Na2SO4 + BaCl2 → BaSO4 (white precipitate) + 2NaCl.",
+        "Oxidation-reduction (redox): one substance gains oxygen while the other loses it, e.g. CuO + H2 → Cu + H2O."
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "Exothermic reactions give out heat (burning of fuel, respiration, quicklime in water). Endothermic reactions take in heat (decomposition of limestone, photosynthesis). Most decomposition reactions are endothermic."
+    },
+    {
+      "type": "heading",
+      "text": "Oxidation and reduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oxidation means gain of oxygen or loss of hydrogen; reduction means loss of oxygen or gain of hydrogen. Both always happen together in one reaction, which is why such reactions are called redox reactions. In CuO + H2 → Cu + H2O, copper oxide loses oxygen (it is reduced) and hydrogen gains oxygen (it is oxidised). The substance that gives oxygen is the oxidising agent and the one that takes oxygen is the reducing agent."
+    },
+    {
+      "type": "remember",
+      "text": "Two harmful effects of oxidation: Corrosion is the slow eating away of metals by air and moisture (rusting of iron, green coating on copper, black coating on silver). Rancidity is the spoiling of fats and oils in food, giving a bad smell and taste. Chips packets are flushed with nitrogen gas to prevent rancidity; antioxidants and airtight containers also help."
+    }
+  ],
+  "objective": [
+    {
+      "id": "c10-sci-ch01-q01",
+      "question": "Which of the following is a correctly balanced chemical equation?",
+      "options": [
+        "H2 + O2 → H2O",
+        "2H2 + O2 → 2H2O",
+        "H2 + O2 → 2H2O",
+        "2H2 + 2O2 → 2H2O"
+      ],
+      "answer": 1,
+      "explanation": "In 2H2 + O2 → 2H2O there are 4 hydrogen atoms and 2 oxygen atoms on each side, so the equation is balanced. The other options have unequal atoms on the two sides.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q02",
+      "question": "Burning of a magnesium ribbon in air is an example of which type of reaction?",
+      "options": [
+        "Decomposition reaction",
+        "Displacement reaction",
+        "Combination reaction",
+        "Double displacement reaction"
+      ],
+      "answer": 2,
+      "explanation": "Magnesium combines with oxygen to form a single product, magnesium oxide (2Mg + O2 → 2MgO). Two substances joining to form one product is a combination reaction.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q03",
+      "question": "The reaction Fe + CuSO4 → FeSO4 + Cu is an example of:",
+      "options": [
+        "Displacement reaction",
+        "Combination reaction",
+        "Decomposition reaction",
+        "Double displacement reaction"
+      ],
+      "answer": 0,
+      "explanation": "Iron is more reactive than copper, so it displaces copper from copper sulphate solution. The blue colour of the solution fades and reddish copper is deposited.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q04",
+      "question": "Which gas is released when zinc granules react with dilute sulphuric acid?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Chlorine"
+      ],
+      "answer": 2,
+      "explanation": "Zn + H2SO4 → ZnSO4 + H2. Hydrogen gas is released, which burns with a pop sound when a burning matchstick is brought near it.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q05",
+      "question": "When calcium carbonate (limestone) is strongly heated, the products are:",
+      "options": [
+        "CaO + CO2",
+        "Ca + CO2",
+        "CaO + O2",
+        "Ca(OH)2 + CO2"
+      ],
+      "answer": 0,
+      "explanation": "CaCO3 → CaO + CO2 on heating. This thermal decomposition gives quicklime (calcium oxide) and carbon dioxide gas.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q06",
+      "question": "White silver chloride turns grey when kept in sunlight. This is an example of:",
+      "options": [
+        "Oxidation",
+        "Combination reaction",
+        "Displacement reaction",
+        "Photochemical decomposition"
+      ],
+      "answer": 3,
+      "explanation": "Light energy breaks silver chloride into silver metal and chlorine gas (2AgCl → 2Ag + Cl2). Decomposition caused by light is called photochemical decomposition; it is used in black-and-white photography.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q07",
+      "question": "In the reaction CuO + H2 → Cu + H2O, which substance is reduced?",
+      "options": [
+        "H2",
+        "CuO",
+        "H2O",
+        "Cu"
+      ],
+      "answer": 1,
+      "explanation": "Copper oxide loses oxygen and becomes copper, so CuO is reduced. Hydrogen gains oxygen to form water, so H2 is oxidised.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q08",
+      "question": "Packets of chips are filled with which gas to prevent rancidity?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "answer": 3,
+      "explanation": "Nitrogen is an unreactive gas. Filling the packet with nitrogen keeps oxygen away from the fried food, so the oils are not oxidised and the chips do not become rancid.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q09",
+      "question": "The reaction of quicklime (CaO) with water is a/an:",
+      "options": [
+        "Endothermic reaction",
+        "Exothermic reaction",
+        "Decomposition reaction",
+        "Displacement reaction"
+      ],
+      "answer": 1,
+      "explanation": "CaO + H2O → Ca(OH)2 releases a large amount of heat, so the container becomes hot. A reaction that gives out heat is exothermic.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-q10",
+      "question": "Rusting of iron is an example of:",
+      "options": [
+        "Reduction",
+        "Decomposition",
+        "Oxidation",
+        "Double displacement"
+      ],
+      "answer": 2,
+      "explanation": "In rusting, iron slowly combines with oxygen in the presence of moisture to form hydrated iron(III) oxide. Gain of oxygen is oxidation; this slow process is called corrosion.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c10-sci-ch01-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "Why should a chemical equation be balanced?",
+      "answerOutline": [
+        "Law of conservation of mass: mass can neither be created nor destroyed in a chemical reaction.",
+        "So the total number of atoms of each element must be equal on the reactant and product sides.",
+        "An unbalanced equation would wrongly show atoms appearing or disappearing.",
+        "Example: 2H2 + O2 → 2H2O is balanced, H2 + O2 → H2O is not."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "What is a displacement reaction? Give one example.",
+      "answerOutline": [
+        "A reaction in which a more reactive element removes a less reactive element from its compound.",
+        "Example: Zn + CuSO4 → ZnSO4 + Cu.",
+        "Zinc is more reactive than copper, so it takes the place of copper in the solution.",
+        "The blue colour of copper sulphate solution fades and reddish-brown copper is deposited."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "Describe the different types of chemical reactions with one balanced equation for each.",
+      "answerOutline": [
+        "Combination: two or more substances form a single product, e.g. CaO + H2O → Ca(OH)2.",
+        "Decomposition: a single compound breaks into simpler substances by heat, light or electricity, e.g. CaCO3 → CaO + CO2 (heat); 2H2O → 2H2 + O2 (electricity).",
+        "Displacement: a more reactive element replaces a less reactive one, e.g. Fe + CuSO4 → FeSO4 + Cu.",
+        "Double displacement: two compounds exchange ions, e.g. Na2SO4 + BaCl2 → BaSO4 + 2NaCl (white precipitate of BaSO4).",
+        "Redox: oxidation and reduction occur together, e.g. CuO + H2 → Cu + H2O.",
+        "Mention that reactions may be exothermic (heat released) or endothermic (heat absorbed)."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch01-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "What are oxidation and reduction? Explain with an example. Also explain corrosion and rancidity and how they can be prevented.",
+      "answerOutline": [
+        "Oxidation: gain of oxygen or loss of hydrogen. Reduction: loss of oxygen or gain of hydrogen. Both occur together (redox).",
+        "Example: CuO + H2 → Cu + H2O. CuO is reduced to Cu; H2 is oxidised to H2O. CuO is the oxidising agent, H2 is the reducing agent.",
+        "Corrosion: slow destruction of a metal by air, moisture or chemicals, e.g. rusting of iron (reddish-brown Fe2O3·xH2O), black layer on silver, green layer on copper.",
+        "Prevention of corrosion: painting, oiling, greasing, galvanising (zinc coating), alloying.",
+        "Rancidity: oxidation of fats and oils in food that spoils the smell and taste.",
+        "Prevention of rancidity: antioxidants, airtight containers, refrigeration, flushing packets with nitrogen."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "c10-sci-ch02",
+  "class": "class-10",
+  "medium": "english",
+  "subjectId": "science",
+  "chapterNumber": 2,
+  "syllabus": {
+    "section": "रसायन शास्त्र",
+    "no": 2
+  },
+  "slug": "acids-bases-and-salts",
+  "title": "Acids, Bases and Salts",
+  "aliases": [
+    "acids bases and salts",
+    "acid base salt",
+    "pH scale",
+    "amla ksharak lavan",
+    "amla kshar aur lavan",
+    "अम्ल क्षारक लवण",
+    "अम्ल क्षार और लवण",
+    "science class 10 chapter 2"
+  ],
+  "summary": "Properties of acids and bases, indicators, the pH scale and its role in daily life, and important salts such as baking soda, washing soda and plaster of Paris.",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "Science, Class 10 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?jesc1=0-13"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "Acids and bases"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acids taste sour, turn blue litmus red and release hydrogen ions (H+) when dissolved in water. Examples are hydrochloric acid (HCl), sulphuric acid (H2SO4), nitric acid (HNO3) and the weak acids found in lemon, vinegar and curd. Bases taste bitter, feel soapy, turn red litmus blue and release hydroxide ions (OH-) in water. Examples are sodium hydroxide (NaOH), potassium hydroxide (KOH) and calcium hydroxide, Ca(OH)2. A base that dissolves in water is called an alkali. Acids and bases conduct electricity in solution because of these ions."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Litmus: a natural dye from lichen; red in acid, blue in base, purple when neutral.",
+        "Phenolphthalein: colourless in acid, pink in base.",
+        "Methyl orange: red in acid, yellow in base.",
+        "Turmeric: stays yellow in acid, turns reddish-brown in base (a turmeric stain on cloth becomes red with soap).",
+        "Olfactory indicators such as onion, vanilla and clove oil change their smell in acidic or basic solutions."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chemical properties"
+    },
+    {
+      "type": "formula",
+      "text": "Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g)",
+      "label": "Acid + metal → salt + hydrogen gas (burns with a pop sound)"
+    },
+    {
+      "type": "formula",
+      "text": "NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)",
+      "label": "Neutralisation: base + acid → salt + water"
+    },
+    {
+      "type": "remember",
+      "text": "While diluting, always add the acid slowly to water with constant stirring, never water to acid. Mixing acid with water releases a lot of heat; if water is poured into concentrated acid the mixture can boil and splash out of the container."
+    },
+    {
+      "type": "heading",
+      "text": "The pH scale"
+    },
+    {
+      "type": "paragraph",
+      "text": "The pH scale measures the strength of hydrogen ions in a solution and runs from 0 to 14. A pH of 7 is neutral (pure water), below 7 is acidic and above 7 is basic. The lower the pH, the stronger the acid; the higher the pH, the stronger the base. Universal indicator or pH paper gives a colour that can be matched to a chart. Our body works between pH 7.0 and 7.8. Acid rain has a pH below 5.6 and harms aquatic life. Tooth decay begins when the pH in the mouth drops below 5.5, so toothpaste is basic. Excess acid in the stomach is neutralised by antacids like milk of magnesia, Mg(OH)2. A bee sting leaves an acid, which can be relieved with baking soda; a nettle sting is treated with dock leaves."
+    },
+    {
+      "type": "heading",
+      "text": "Important salts and their preparation"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Common salt (NaCl): obtained from sea water and rock salt; raw material for NaOH, baking soda, washing soda and bleaching powder.",
+        "Sodium hydroxide (NaOH): made by the chlor-alkali process, electrolysis of brine. 2NaCl + 2H2O → 2NaOH + Cl2 + H2. Chlorine forms at the anode and hydrogen at the cathode.",
+        "Bleaching powder (CaOCl2): chlorine passed over dry slaked lime, Ca(OH)2 + Cl2 → CaOCl2 + H2O. Used to bleach cloth and paper and to disinfect drinking water.",
+        "Baking soda (NaHCO3): NaCl + H2O + CO2 + NH3 → NH4Cl + NaHCO3. A mild, non-corrosive base used in baking powder, antacids and soda-acid fire extinguishers.",
+        "Washing soda (Na2CO3·10H2O): obtained by heating baking soda to get Na2CO3, then recrystallising. Used in glass, soap and paper industries and to remove permanent hardness of water.",
+        "Plaster of Paris (CaSO4·½H2O): gypsum heated at 373 K (100 °C). On mixing with water it sets into hard gypsum; used for plaster casts, toys and decoration."
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "Water of crystallisation is the fixed number of water molecules present in one formula unit of a crystalline salt. Blue copper sulphate crystals (CuSO4·5H2O) turn white on heating because they lose this water, and become blue again when water is added. Gypsum is CaSO4·2H2O and washing soda is Na2CO3·10H2O."
+    }
+  ],
+  "objective": [
+    {
+      "id": "c10-sci-ch02-q01",
+      "question": "What colour does phenolphthalein show in a basic solution?",
+      "options": [
+        "Colourless",
+        "Red",
+        "Pink",
+        "Yellow"
+      ],
+      "answer": 2,
+      "explanation": "Phenolphthalein is colourless in acidic and neutral solutions but turns pink in a basic solution. This is why it is used in acid-base titrations.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q02",
+      "question": "Which gas is produced when an acid reacts with an active metal?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Chlorine"
+      ],
+      "answer": 1,
+      "explanation": "Acid + metal → salt + hydrogen, e.g. Zn + 2HCl → ZnCl2 + H2. The hydrogen gas burns with a pop sound when a burning splinter is brought near it.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q03",
+      "question": "The pH of a neutral solution such as pure water is:",
+      "options": [
+        "0",
+        "14",
+        "7",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "On the pH scale 7 is neutral. Values below 7 show an acidic solution and values above 7 show a basic solution.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q04",
+      "question": "Which of the following is a strong acid?",
+      "options": [
+        "Acetic acid",
+        "Citric acid",
+        "Carbonic acid",
+        "Hydrochloric acid"
+      ],
+      "answer": 3,
+      "explanation": "Hydrochloric acid splits completely into H+ and Cl- ions in water, so it is a strong acid. Acetic, citric and carbonic acids ionise only partly and are weak acids.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q05",
+      "question": "The chemical formula of baking soda is:",
+      "options": [
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH",
+        "NaCl"
+      ],
+      "answer": 1,
+      "explanation": "Baking soda is sodium hydrogencarbonate, NaHCO3. Na2CO3 is washing soda (anhydrous), NaOH is caustic soda and NaCl is common salt.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q06",
+      "question": "The chemical formula of plaster of Paris is:",
+      "options": [
+        "CaSO4·2H2O",
+        "CaSO4",
+        "CaSO4·½H2O",
+        "CaCO3"
+      ],
+      "answer": 2,
+      "explanation": "Plaster of Paris is calcium sulphate hemihydrate, CaSO4·½H2O, made by heating gypsum (CaSO4·2H2O) at 373 K. CaCO3 is limestone.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q07",
+      "question": "Tooth decay starts when the pH in the mouth falls below:",
+      "options": [
+        "7",
+        "5.5",
+        "6.5",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "Tooth enamel (calcium hydroxyapatite) is the hardest substance in the body but it dissolves when the pH in the mouth drops below 5.5. Bacteria produce acid from leftover sugar, so basic toothpaste helps neutralise it.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q08",
+      "question": "The products of the chlor-alkali process are:",
+      "options": [
+        "NaOH, Cl2 and H2",
+        "NaCl and H2O",
+        "Na and Cl2",
+        "NaOH and O2"
+      ],
+      "answer": 0,
+      "explanation": "Electrolysis of brine gives sodium hydroxide, chlorine gas (at the anode) and hydrogen gas (at the cathode): 2NaCl + 2H2O → 2NaOH + Cl2 + H2. The name comes from the products chlor (chlorine) and alkali (NaOH).",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q09",
+      "question": "Bleaching powder is prepared by passing chlorine gas over:",
+      "options": [
+        "Quicklime",
+        "Limestone",
+        "Dry slaked lime",
+        "Gypsum"
+      ],
+      "answer": 2,
+      "explanation": "Chlorine reacts with dry slaked lime, Ca(OH)2, to form bleaching powder: Ca(OH)2 + Cl2 → CaOCl2 + H2O. It is used for bleaching and for disinfecting water.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-q10",
+      "question": "Which of the following is an olfactory indicator?",
+      "options": [
+        "Litmus",
+        "Phenolphthalein",
+        "Methyl orange",
+        "Onion"
+      ],
+      "answer": 3,
+      "explanation": "An olfactory indicator changes its smell in acidic or basic solutions. Onion, vanilla essence and clove oil are olfactory indicators; the other three change colour.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c10-sci-ch02-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "What is a neutralisation reaction? Write one equation.",
+      "answerOutline": [
+        "A reaction in which an acid and a base react to form salt and water.",
+        "The H+ ions of the acid and OH- ions of the base combine to form water, so the solution becomes neutral.",
+        "Example: NaOH + HCl → NaCl + H2O.",
+        "Daily-life use: antacids neutralise excess stomach acid; lime is added to acidic soil."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "Why is acid added to water and not water to acid while diluting?",
+      "answerOutline": [
+        "Dissolving a concentrated acid in water releases a large amount of heat (highly exothermic).",
+        "If water is added to acid, the heat is produced in a small amount of water, which can boil suddenly and splash the acid out.",
+        "Adding acid slowly to a large volume of water with stirring spreads the heat and keeps it safe.",
+        "This also lowers the concentration of ions per unit volume gradually."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "What is the pH scale? Explain the importance of pH in everyday life with examples.",
+      "answerOutline": [
+        "pH scale: a scale from 0 to 14 that measures the hydrogen-ion concentration of a solution; 7 neutral, below 7 acidic, above 7 basic. Measured with universal indicator or pH paper.",
+        "Living things: our body works in the narrow range of pH 7.0 to 7.8; acid rain (pH below 5.6) harms fish and plants in rivers.",
+        "Soil: plants need a particular pH; acidic soil is treated with quicklime or slaked lime, basic soil with organic matter.",
+        "Digestion: the stomach makes HCl; excess acid causes indigestion, which antacids (milk of magnesia) neutralise.",
+        "Teeth: enamel dissolves below pH 5.5, so basic toothpaste is used to prevent decay.",
+        "Stings: bee sting injects acid, relieved by baking soda; nettle sting is relieved by dock leaves."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c10-sci-ch02-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "Describe the preparation, properties and uses of baking soda and plaster of Paris.",
+      "answerOutline": [
+        "Baking soda (NaHCO3) preparation: NaCl + H2O + CO2 + NH3 → NH4Cl + NaHCO3.",
+        "Properties: a mild, non-corrosive base; on heating gives washing soda, water and CO2 (2NaHCO3 → Na2CO3 + H2O + CO2).",
+        "Uses: in baking powder (with tartaric acid) to make cakes soft and spongy; as an antacid; in soda-acid fire extinguishers.",
+        "Plaster of Paris (CaSO4·½H2O) preparation: gypsum heated carefully at 373 K loses part of its water of crystallisation.",
+        "Properties: a white powder that, on mixing with water, sets into a hard solid mass of gypsum (CaSO4·2H2O); must be stored in a moisture-proof container.",
+        "Uses: supporting fractured bones, making toys, decorative materials and smooth surfaces, filling gaps."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

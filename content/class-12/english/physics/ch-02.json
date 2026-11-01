@@ -1,0 +1,343 @@
+{
+  "id": "c12-phy-ch02",
+  "class": "class-12",
+  "medium": "english",
+  "subjectId": "physics",
+  "chapterNumber": 2,
+  "syllabus": {
+    "section": "Part I",
+    "no": 2
+  },
+  "slug": "electrostatic-potential-and-capacitance",
+  "title": "Electrostatic Potential and Capacitance",
+  "aliases": [
+    "electrostatic potential",
+    "vidyut vibhav",
+    "sthirvaidyut vibhav aur dharita",
+    "capacitance",
+    "capacitor",
+    "sandharitra",
+    "dharita",
+    "वैद्युत विभव"
+  ],
+  "summary": "Electrostatic potential, potential due to a point charge and a dipole, equipotential surfaces, potential energy, conductors and dielectrics, capacitors, their combinations and stored energy.",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "Physics Part I, Class 12 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?leph1=0-8"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "Electrostatic potential"
+    },
+    {
+      "type": "paragraph",
+      "text": "The electrostatic potential at a point is the work done by an external agent in bringing a unit positive test charge from infinity to that point, without acceleration. It is a scalar quantity. SI unit: volt (V), where 1 V = 1 J C⁻¹. The potential difference between two points is the work done per unit charge in moving a test charge from one point to the other."
+    },
+    {
+      "type": "formula",
+      "label": "Potential due to a point charge",
+      "text": "V = (1/4πε₀) · (q / r),   and for a dipole at distance r (r ≫ a):  V = (1/4πε₀) · (p cos θ / r²)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Potential due to a group of charges is the algebraic sum of the potentials due to each charge (superposition).",
+        "Relation between field and potential: E = −dV/dr. The field points in the direction in which potential falls fastest.",
+        "An equipotential surface is one on which the potential is the same at every point. For a point charge these are concentric spheres; for a uniform field they are parallel planes perpendicular to E.",
+        "Equipotential surfaces never cut each other, and the electric field is always perpendicular to them."
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "Potential is a scalar, so it can be added directly without worrying about direction. No work is done in moving a charge along an equipotential surface, since the potential difference is zero. On the axis of a dipole V is maximum; on the equatorial line V = 0."
+    },
+    {
+      "type": "heading",
+      "text": "Potential energy, conductors and dielectrics"
+    },
+    {
+      "type": "formula",
+      "label": "Electrostatic potential energy",
+      "text": "U = (1/4πε₀) · (q₁q₂ / r)  for two charges;   U = −pE cos θ = −p · E  for a dipole in a uniform field"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Inside a conductor in electrostatic equilibrium E = 0, all excess charge resides on the outer surface, and the whole conductor is an equipotential.",
+        "Just outside the surface of a charged conductor E = σ/ε₀, perpendicular to the surface. A cavity inside a conductor has zero field (electrostatic shielding).",
+        "A dielectric is an insulator. In an external field its molecules acquire induced dipole moments (polarisation), which produce an opposing field and reduce the net field inside by a factor K, the dielectric constant (K = ε/ε₀ > 1)."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Capacitance"
+    },
+    {
+      "type": "formula",
+      "label": "Parallel plate capacitor",
+      "text": "C = Q/V;   C = ε₀A / d  (air between plates);   C = Kε₀A / d  (dielectric fills the gap);   SI unit: farad (F)"
+    },
+    {
+      "type": "formula",
+      "label": "Combination of capacitors and stored energy",
+      "text": "Series: 1/C = 1/C₁ + 1/C₂ + …;   Parallel: C = C₁ + C₂ + …;   U = ½CV² = Q²/2C = ½QV"
+    },
+    {
+      "type": "remember",
+      "text": "The farad is a very large unit; practical capacitors are measured in μF (10⁻⁶ F), nF (10⁻⁹ F) and pF (10⁻¹² F). Inserting a dielectric of constant K increases the capacitance K times. Energy stored per unit volume in the field (energy density) is ½ε₀E². In series the charge on every capacitor is the same; in parallel the voltage across each is the same."
+    }
+  ],
+  "objective": [
+    {
+      "id": "c12-phy-ch02-q01",
+      "question": "The SI unit of electrostatic potential is:",
+      "options": [
+        "volt",
+        "joule",
+        "coulomb",
+        "ampere"
+      ],
+      "answer": 0,
+      "explanation": "Potential is work done per unit charge, so its unit is joule per coulomb, which is called the volt (V).",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q02",
+      "question": "The work done in moving a charge from one point to another on an equipotential surface is:",
+      "options": [
+        "positive",
+        "negative",
+        "zero",
+        "infinite"
+      ],
+      "answer": 2,
+      "explanation": "Every point on an equipotential surface is at the same potential, so the potential difference is zero and W = q × ΔV = 0.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q03",
+      "question": "The electrostatic potential at a distance of 1 m from a point charge of 1 μC in air is:",
+      "options": [
+        "9 V",
+        "90 V",
+        "9 × 10⁹ V",
+        "9 × 10³ V"
+      ],
+      "answer": 3,
+      "explanation": "V = (1/4πε₀) · q/r = 9 × 10⁹ × 10⁻⁶ / 1 = 9 × 10³ V.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q04",
+      "question": "The correct relation between electric field E and potential V is:",
+      "options": [
+        "E = dV/dr",
+        "E = V r",
+        "E = −dV/dr",
+        "E = V / r²"
+      ],
+      "answer": 2,
+      "explanation": "The electric field is the negative gradient of the potential: E = −dV/dr. The minus sign shows that the field points in the direction of decreasing potential.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q05",
+      "question": "A parallel plate capacitor has capacitance C with air between its plates. When the gap is completely filled with a dielectric of dielectric constant K, the capacitance becomes:",
+      "options": [
+        "C / K",
+        "K C",
+        "C",
+        "K² C"
+      ],
+      "answer": 1,
+      "explanation": "With a dielectric, C' = Kε₀A/d = K × (ε₀A/d) = KC, so the capacitance increases K times.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q06",
+      "question": "Three capacitors of 2 μF, 3 μF and 6 μF are connected in series. The equivalent capacitance is:",
+      "options": [
+        "11 μF",
+        "1 μF",
+        "6 μF",
+        "0.5 μF"
+      ],
+      "answer": 1,
+      "explanation": "In series 1/C = 1/2 + 1/3 + 1/6 = (3 + 2 + 1)/6 = 1, so C = 1 μF.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q07",
+      "question": "A 2 μF capacitor is charged to a potential difference of 100 V. The energy stored in it is:",
+      "options": [
+        "0.1 J",
+        "0.02 J",
+        "0.01 J",
+        "1 J"
+      ],
+      "answer": 2,
+      "explanation": "U = ½CV² = ½ × 2 × 10⁻⁶ × (100)² = 10⁻⁶ × 10⁴ = 10⁻² J = 0.01 J.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q08",
+      "question": "The electric field inside a charged conductor in electrostatic equilibrium is:",
+      "options": [
+        "zero",
+        "maximum",
+        "equal to the field at the surface",
+        "infinite"
+      ],
+      "answer": 0,
+      "explanation": "If there were a field inside, free electrons would move and the conductor would not be in equilibrium. Hence E = 0 inside and the excess charge stays on the surface.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q09",
+      "question": "The potential energy of an electric dipole of moment p placed parallel to a uniform electric field E (θ = 0°) is:",
+      "options": [
+        "+pE",
+        "−pE",
+        "zero",
+        "pE / 2"
+      ],
+      "answer": 1,
+      "explanation": "U = −pE cos θ. At θ = 0°, cos θ = 1, so U = −pE, the minimum value, which is the position of stable equilibrium.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q10",
+      "question": "Two capacitors of 4 μF and 6 μF are connected in parallel. The equivalent capacitance is:",
+      "options": [
+        "2.4 μF",
+        "24 μF",
+        "1.5 μF",
+        "10 μF"
+      ],
+      "answer": 3,
+      "explanation": "In parallel the capacitances simply add: C = 4 + 6 = 10 μF.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c12-phy-ch02-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "Define electrostatic potential at a point. Write its SI unit and state whether it is a scalar or a vector quantity.",
+      "answerOutline": [
+        "Electrostatic potential at a point is the work done by an external agent in bringing a unit positive charge from infinity to that point without acceleration: V = W/q₀.",
+        "SI unit: volt (V); 1 V = 1 J C⁻¹.",
+        "It is a scalar quantity, because work and charge are both scalars.",
+        "For a point charge q, V = (1/4πε₀) · q/r, and the potential at infinity is taken as zero."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "What is an equipotential surface? Why can two equipotential surfaces never intersect each other?",
+      "answerOutline": [
+        "An equipotential surface is a surface on which every point has the same electrostatic potential.",
+        "Examples: concentric spheres around a point charge; parallel planes perpendicular to a uniform field.",
+        "If two such surfaces intersected, the point of intersection would have two different potentials at the same time, which is impossible.",
+        "Also, the field must be perpendicular to an equipotential surface; at an intersection the field would have two directions, which cannot happen."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "Derive the expression for the capacitance of a parallel plate capacitor. How does the capacitance change when a dielectric slab completely fills the space between the plates?",
+      "answerOutline": [
+        "Consider two parallel metal plates each of area A separated by a small distance d, carrying charges +Q and −Q. Surface charge density σ = Q/A.",
+        "Using Gauss's law, the field between the plates is uniform: E = σ/ε₀ = Q/(ε₀A); outside the plates the fields of the two sheets cancel.",
+        "Potential difference between the plates V = E × d = Qd/(ε₀A).",
+        "Capacitance C = Q/V = ε₀A/d.",
+        "C is directly proportional to the plate area and inversely proportional to the separation; it does not depend on Q or V.",
+        "When a dielectric of dielectric constant K fills the gap, the field reduces to E/K, so V reduces to V/K and the capacitance becomes C' = Kε₀A/d = KC, i.e. it increases K times."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "Derive the expression for the energy stored in a charged capacitor. Also obtain the expression for the equivalent capacitance of three capacitors connected in series.",
+      "answerOutline": [
+        "Energy stored: at an instant when the charge on the capacitor is q, its potential is V = q/C. Work done to add a further charge dq is dW = V dq = (q/C) dq.",
+        "Total work to charge it from 0 to Q: W = ∫₀^Q (q/C) dq = Q²/2C. This work is stored as electrostatic energy, U = Q²/2C = ½CV² = ½QV.",
+        "Series combination: capacitors C₁, C₂, C₃ connected end to end across a battery of voltage V carry the same charge Q on each.",
+        "Potential differences across them are V₁ = Q/C₁, V₂ = Q/C₂, V₃ = Q/C₃, and V = V₁ + V₂ + V₃.",
+        "If C is the equivalent capacitance, V = Q/C, so Q/C = Q/C₁ + Q/C₂ + Q/C₃, giving 1/C = 1/C₁ + 1/C₂ + 1/C₃.",
+        "The equivalent capacitance in series is smaller than the smallest individual capacitance."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

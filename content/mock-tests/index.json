@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c10-science-english-1",
+    "class": "class-10",
+    "medium": "english",
+    "subjectId": "science",
+    "title": "Science sample mock test 1",
+    "given": 20,
+    "attempt": 10,
+    "durationMin": 195,
+    "status": "sample",
+    "questionCount": 20
+  },
+  {
+    "id": "c10-science-hindi-1",
+    "class": "class-10",
+    "medium": "hindi",
+    "subjectId": "science",
+    "title": "विज्ञान नमूना मॉक टेस्ट 1",
+    "given": 20,
+    "attempt": 10,
+    "durationMin": 195,
+    "status": "sample",
+    "questionCount": 20
+  },
+  {
+    "id": "c12-history-english-1",
+    "class": "class-12",
+    "medium": "english",
+    "subjectId": "history",
+    "title": "History sample mock test 1",
+    "given": 20,
+    "attempt": 10,
+    "durationMin": 195,
+    "status": "sample",
+    "questionCount": 20
+  },
+  {
+    "id": "c12-history-hindi-1",
+    "class": "class-12",
+    "medium": "hindi",
+    "subjectId": "history",
+    "title": "इतिहास नमूना मॉक टेस्ट 1",
+    "given": 20,
+    "attempt": 10,
+    "durationMin": 195,
+    "status": "sample",
+    "questionCount": 20
+  },
+  {
+    "id": "c12-physics-english-1",
+    "class": "class-12",
+    "medium": "english",
+    "subjectId": "physics",
+    "title": "Physics sample mock test 1",
+    "given": 20,
+    "attempt": 10,
+    "durationMin": 195,
+    "status": "sample",
+    "questionCount": 20
+  },
+  {
+    "id": "c12-physics-hindi-1",
+    "class": "class-12",
+    "medium": "hindi",
+    "subjectId": "physics",
+    "title": "भौतिकी नमूना मॉक टेस्ट 1",
+    "given": 20,
+    "attempt": 10,
+    "durationMin": 195,
+    "status": "sample",
+    "questionCount": 20
+  }
+]

@@ -1,0 +1,344 @@
+{
+  "id": "c12-phy-ch01",
+  "class": "class-12",
+  "medium": "english",
+  "subjectId": "physics",
+  "chapterNumber": 1,
+  "syllabus": {
+    "section": "Part I",
+    "no": 1
+  },
+  "slug": "electric-charges-and-fields",
+  "title": "Electric Charges and Fields",
+  "aliases": [
+    "electric charge",
+    "vidyut aavesh",
+    "vaidyut aavesh aur kshetra",
+    "coulomb ka niyam",
+    "coulomb's law",
+    "gauss ka niyam",
+    "electric field",
+    "वैद्युत क्षेत्र"
+  ],
+  "summary": "Properties of electric charge, Coulomb's law, electric field and field lines, electric dipole, electric flux and Gauss's law with its applications.",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "Physics Part I, Class 12 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?leph1=0-8"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "Electric charge and its properties"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Electric charge is the property of matter because of which it experiences electric and magnetic effects. It is of two kinds: positive and negative. Like charges repel, unlike charges attract. SI unit: coulomb (C).",
+        "Additivity: the total charge of a system is the algebraic sum of all the charges in it (sign is taken into account).",
+        "Conservation: the total charge of an isolated system never changes; charge can only be transferred from one body to another.",
+        "Quantisation: the charge on any body is an integral multiple of the electronic charge, q = ne, where e = 1.6 × 10⁻¹⁹ C and n is an integer.",
+        "Invariance: the charge on a body does not change with its speed, unlike mass."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Coulomb's law and electric field"
+    },
+    {
+      "type": "formula",
+      "label": "Coulomb's law",
+      "text": "F = (1/4πε₀) · (q₁q₂ / r²),   where 1/4πε₀ = k = 9 × 10⁹ N m² C⁻²"
+    },
+    {
+      "type": "paragraph",
+      "text": "The force between two point charges at rest is directly proportional to the product of the charges and inversely proportional to the square of the distance between them. ε₀ = 8.85 × 10⁻¹² C² N⁻¹ m⁻² is the permittivity of free space. In a medium of dielectric constant K the force becomes K times smaller. When several charges are present, the net force on any one charge is the vector sum of the forces due to each of the others (principle of superposition)."
+    },
+    {
+      "type": "remember",
+      "text": "Coulomb's force is a central force, acts along the line joining the two charges, and obeys Newton's third law: the force on q₁ due to q₂ is equal and opposite to the force on q₂ due to q₁."
+    },
+    {
+      "type": "formula",
+      "label": "Electric field of a point charge",
+      "text": "E = F/q₀ = (1/4πε₀) · (q / r²),   SI unit: N C⁻¹ or V m⁻¹"
+    },
+    {
+      "type": "formula",
+      "label": "Electric dipole",
+      "text": "p = q × 2a (directed from −q to +q);   τ = pE sin θ;   E_axial = 2kp/r³,   E_equatorial = kp/r³  (for r ≫ a)"
+    },
+    {
+      "type": "heading",
+      "text": "Electric flux and Gauss's law"
+    },
+    {
+      "type": "formula",
+      "label": "Gauss's law",
+      "text": "φ = ∮ E · dS = q_enclosed / ε₀"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Infinitely long straight charged wire (linear charge density λ): E = λ / (2πε₀r), directed radially outward for positive λ.",
+        "Infinite plane sheet of charge (surface charge density σ): E = σ / (2ε₀), independent of the distance from the sheet.",
+        "Thin uniformly charged spherical shell: outside, E = q / (4πε₀r²) as if the whole charge were at the centre; on the surface, E = σ/ε₀; inside, E = 0."
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "The SI unit of electric flux is N m² C⁻¹ (or V m). Two field lines never cross each other, because the field at a point can have only one direction. The electric field inside a charged conducting shell is zero no matter how much charge sits on its surface."
+    }
+  ],
+  "objective": [
+    {
+      "id": "c12-phy-ch01-q01",
+      "question": "The SI unit of electric charge is:",
+      "options": [
+        "ampere",
+        "coulomb",
+        "volt",
+        "newton"
+      ],
+      "answer": 1,
+      "explanation": "Electric charge is measured in coulomb (C). One coulomb is the charge that flows in one second when a current of one ampere passes.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q02",
+      "question": "The charge on any body is always an integral multiple of the electronic charge e. This property of charge is called:",
+      "options": [
+        "conservation of charge",
+        "quantisation of charge",
+        "additivity of charge",
+        "invariance of charge"
+      ],
+      "answer": 1,
+      "explanation": "Quantisation means charge exists only in discrete packets, q = ne, where n is an integer and e = 1.6 × 10⁻¹⁹ C.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q03",
+      "question": "The number of electrons that together carry a charge of one coulomb is about:",
+      "options": [
+        "6.25 × 10¹⁸",
+        "1.6 × 10⁻¹⁹",
+        "6.02 × 10²³",
+        "1.6 × 10¹⁹"
+      ],
+      "answer": 0,
+      "explanation": "n = q/e = 1 / (1.6 × 10⁻¹⁹) = 6.25 × 10¹⁸ electrons.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q04",
+      "question": "The force between two point charges is F. If the distance between them is doubled, the force becomes:",
+      "options": [
+        "2F",
+        "F/2",
+        "4F",
+        "F/4"
+      ],
+      "answer": 3,
+      "explanation": "By Coulomb's law F ∝ 1/r². Doubling r makes r² four times larger, so the force falls to F/4.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q05",
+      "question": "Two point charges of 2 μC and 3 μC are placed 30 cm apart in air. The force between them is:",
+      "options": [
+        "0.6 N",
+        "6 N",
+        "0.06 N",
+        "60 N"
+      ],
+      "answer": 0,
+      "explanation": "F = 9 × 10⁹ × (2 × 10⁻⁶ × 3 × 10⁻⁶) / (0.3)² = 9 × 10⁹ × 6 × 10⁻¹² / 0.09 = 0.6 N.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q06",
+      "question": "The SI unit of electric field intensity is:",
+      "options": [
+        "J C⁻¹",
+        "N C",
+        "C m⁻¹",
+        "N C⁻¹"
+      ],
+      "answer": 3,
+      "explanation": "Electric field is force per unit charge, E = F/q, so its unit is newton per coulomb (N C⁻¹), which is the same as volt per metre.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q07",
+      "question": "The electric field at a point inside a uniformly charged thin spherical shell is:",
+      "options": [
+        "q / (4πε₀r²)",
+        "infinite",
+        "zero",
+        "σ / ε₀"
+      ],
+      "answer": 2,
+      "explanation": "A Gaussian surface drawn inside the shell encloses no charge, so by Gauss's law the field everywhere inside the shell is zero.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q08",
+      "question": "The torque on an electric dipole placed in a uniform electric field is maximum when the angle between the dipole moment and the field is:",
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "answer": 2,
+      "explanation": "τ = pE sin θ, and sin θ is maximum (equal to 1) at θ = 90°, so the torque is maximum when the dipole is perpendicular to the field.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q09",
+      "question": "The electric field due to an infinite plane sheet of charge with surface charge density σ is:",
+      "options": [
+        "σ / ε₀",
+        "σ / (2ε₀)",
+        "σ / (4πε₀)",
+        "2σ / ε₀"
+      ],
+      "answer": 1,
+      "explanation": "Applying Gauss's law to a cylindrical Gaussian surface through the sheet gives E = σ / (2ε₀), which does not depend on the distance from the sheet.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q10",
+      "question": "According to Gauss's law, the total electric flux through a closed surface enclosing a charge q is:",
+      "options": [
+        "ε₀ q",
+        "q / (4πε₀)",
+        "zero",
+        "q / ε₀"
+      ],
+      "answer": 3,
+      "explanation": "Gauss's law states that the net flux through any closed surface equals the charge enclosed divided by ε₀, that is φ = q / ε₀.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c12-phy-ch01-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "State Coulomb's law of electrostatics and write it in vector form.",
+      "answerOutline": [
+        "The force between two point charges at rest is directly proportional to the product of the charges and inversely proportional to the square of the distance between them, and acts along the line joining them.",
+        "Scalar form: F = (1/4πε₀) · q₁q₂ / r², with 1/4πε₀ = 9 × 10⁹ N m² C⁻².",
+        "Vector form: F₂₁ = (1/4πε₀) · (q₁q₂ / r²) r̂₂₁, where r̂₂₁ is the unit vector from q₁ towards q₂.",
+        "The force is repulsive when q₁q₂ > 0 and attractive when q₁q₂ < 0."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "What are electric field lines? Write any two of their properties.",
+      "answerOutline": [
+        "An electric field line is an imaginary curve drawn so that the tangent at any point gives the direction of the electric field at that point.",
+        "Field lines start from positive charges and end on negative charges (or go to infinity); they never form closed loops in electrostatics.",
+        "Two field lines never intersect, because the field at a point can have only one direction.",
+        "The lines are crowded where the field is strong and spread out where the field is weak."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "State Gauss's law in electrostatics. Using it, obtain the expression for the electric field due to an infinitely long straight uniformly charged wire.",
+      "answerOutline": [
+        "Gauss's law: the total electric flux through any closed surface is 1/ε₀ times the net charge enclosed by it, φ = ∮ E · dS = q / ε₀.",
+        "Consider a wire with linear charge density λ. By symmetry the field is radial and has the same magnitude at every point at distance r from the wire.",
+        "Choose a coaxial cylindrical Gaussian surface of radius r and length l. Flux through the two flat ends is zero because E is parallel to them.",
+        "Flux through the curved surface = E × 2πrl. Charge enclosed = λl.",
+        "By Gauss's law, E × 2πrl = λl / ε₀, hence E = λ / (2πε₀ r).",
+        "The field is directed radially outward for positive λ and inward for negative λ; it varies as 1/r."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "Define electric dipole and dipole moment. Derive the expression for the torque acting on an electric dipole placed in a uniform electric field.",
+      "answerOutline": [
+        "An electric dipole is a pair of equal and opposite point charges +q and −q separated by a small distance 2a.",
+        "Dipole moment p = q × 2a; it is a vector directed from −q to +q, SI unit C m.",
+        "In a uniform field E, +q experiences force qE along E and −q experiences force qE opposite to E; the net force is zero, so the dipole has no translational motion.",
+        "The two forces form a couple. Perpendicular distance between them = 2a sin θ, where θ is the angle between p and E.",
+        "Torque τ = force × perpendicular distance = qE × 2a sin θ = pE sin θ; in vector form τ = p × E.",
+        "Torque is zero at θ = 0° (stable equilibrium) and 180° (unstable equilibrium), and maximum (= pE) at θ = 90°."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

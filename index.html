@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="hi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#2563EB" />
+    <link rel="icon" href="/icons/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/icons/icon.svg" />
+    <link rel="preload" href="/fonts/NotoSansDevanagari-devanagari.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/api/posters" as="fetch" crossorigin />
+    <link rel="preload" href="/api/posters/first" as="image" fetchpriority="high" />
+    <!--app-head-->
+    <title>Bihar Board Padhai</title>
+  </head>
+  <body>
+    <div id="root"><!--app-html--></div>
+    <!--app-data-->
+    <script>
+      // Paints the first poster before React hydrates (the list and image are preloaded), so the banner is not delayed by JS.
+      (function () {
+        try {
+          var cls = (JSON.parse(localStorage.getItem('bbp.prefs.v1') || '{}') || {}).classId || null;
+          fetch('/api/posters').then(function (r) { return r.json(); }).then(function (d) {
+            var list = (d && d.posters) || [];
+            var p = null;
+            for (var i = 0; i < list.length; i++) { if (!list[i].class || list[i].class === 'both' || !cls || list[i].class === cls) { p = list[i]; break; } }
+            var b = document.querySelector('[data-poster-box]');
+            if (p && b) { b.style.backgroundImage = 'url("' + p.image + '")'; b.style.animation = 'none'; }
+          }).catch(function () {});
+        } catch (e) {}
+      })();
+    </script>
+    <script type="module" src="/src/entry-client.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,344 @@
+{
+  "id": "c12-phy-ch01",
+  "class": "class-12",
+  "medium": "hindi",
+  "subjectId": "physics",
+  "chapterNumber": 1,
+  "syllabus": {
+    "section": "Part I",
+    "no": 1
+  },
+  "slug": "vaidyut-aavesh-tatha-kshetra",
+  "title": "वैद्युत आवेश तथा क्षेत्र",
+  "aliases": [
+    "electric charge",
+    "vidyut aavesh",
+    "vaidyut aavesh aur kshetra",
+    "coulomb ka niyam",
+    "coulomb's law",
+    "gauss ka niyam",
+    "electric field",
+    "वैद्युत क्षेत्र"
+  ],
+  "summary": "वैद्युत आवेश के गुण, कूलॉम का नियम, वैद्युत क्षेत्र और क्षेत्र रेखाएँ, वैद्युत द्विध्रुव, वैद्युत फ्लक्स तथा गाउस का नियम और उसके अनुप्रयोग।",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "भौतिकी भाग 1, कक्षा 12 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?lhph1=0-8"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "वैद्युत आवेश और उसके गुण"
+    },
+    {
+      "type": "list",
+      "items": [
+        "वैद्युत आवेश पदार्थ का वह गुण है जिसके कारण वह वैद्युत तथा चुंबकीय प्रभाव अनुभव करता है। यह दो प्रकार का होता है: धनात्मक और ऋणात्मक। सजातीय आवेश एक-दूसरे को प्रतिकर्षित तथा विजातीय आवेश आकर्षित करते हैं। SI मात्रक: कूलॉम (C)।",
+        "योज्यता: किसी निकाय का कुल आवेश उसमें उपस्थित सभी आवेशों का बीजगणितीय योग होता है (चिह्न सहित)।",
+        "संरक्षण: किसी विलगित निकाय का कुल आवेश कभी नहीं बदलता; आवेश केवल एक वस्तु से दूसरी वस्तु में स्थानांतरित हो सकता है।",
+        "क्वांटीकरण: किसी भी वस्तु पर आवेश इलेक्ट्रॉनिक आवेश का पूर्ण गुणज होता है, q = ne, जहाँ e = 1.6 × 10⁻¹⁹ C तथा n एक पूर्णांक है।",
+        "अपरिवर्तनशीलता: द्रव्यमान के विपरीत, किसी वस्तु का आवेश उसकी चाल के साथ नहीं बदलता।"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "कूलॉम का नियम और वैद्युत क्षेत्र"
+    },
+    {
+      "type": "formula",
+      "label": "कूलॉम का नियम",
+      "text": "F = (1/4πε₀) · (q₁q₂ / r²),   जहाँ 1/4πε₀ = k = 9 × 10⁹ N m² C⁻²"
+    },
+    {
+      "type": "paragraph",
+      "text": "विराम में स्थित दो बिंदु आवेशों के बीच लगने वाला बल आवेशों के गुणनफल के अनुक्रमानुपाती तथा उनके बीच की दूरी के वर्ग के व्युत्क्रमानुपाती होता है। ε₀ = 8.85 × 10⁻¹² C² N⁻¹ m⁻² निर्वात की विद्युतशीलता है। K परावैद्युतांक वाले माध्यम में यह बल K गुना कम हो जाता है। जब कई आवेश उपस्थित हों, तो किसी एक आवेश पर कुल बल शेष सभी आवेशों के कारण लगने वाले बलों का सदिश योग होता है (अध्यारोपण का सिद्धांत)।"
+    },
+    {
+      "type": "remember",
+      "text": "कूलॉम बल एक केंद्रीय बल है, यह दोनों आवेशों को मिलाने वाली रेखा के अनुदिश कार्य करता है और न्यूटन के तृतीय नियम का पालन करता है: q₂ के कारण q₁ पर बल, q₁ के कारण q₂ पर बल के बराबर और विपरीत होता है।"
+    },
+    {
+      "type": "formula",
+      "label": "बिंदु आवेश का वैद्युत क्षेत्र",
+      "text": "E = F/q₀ = (1/4πε₀) · (q / r²),   SI मात्रक: N C⁻¹ या V m⁻¹"
+    },
+    {
+      "type": "formula",
+      "label": "वैद्युत द्विध्रुव",
+      "text": "p = q × 2a (दिशा −q से +q की ओर);   τ = pE sin θ;   E_अक्षीय = 2kp/r³,   E_निरक्षीय = kp/r³  (r ≫ a के लिए)"
+    },
+    {
+      "type": "heading",
+      "text": "वैद्युत फ्लक्स और गाउस का नियम"
+    },
+    {
+      "type": "formula",
+      "label": "गाउस का नियम",
+      "text": "φ = ∮ E · dS = q_परिबद्ध / ε₀"
+    },
+    {
+      "type": "list",
+      "items": [
+        "अनंत लंबाई का सीधा आवेशित तार (रैखिक आवेश घनत्व λ): E = λ / (2πε₀r), धनात्मक λ के लिए दिशा त्रिज्यतः बाहर की ओर।",
+        "अनंत समतल आवेशित चादर (पृष्ठीय आवेश घनत्व σ): E = σ / (2ε₀), यह चादर से दूरी पर निर्भर नहीं करता।",
+        "पतला एकसमान आवेशित गोलीय खोल: बाहर E = q / (4πε₀r²), मानो सारा आवेश केंद्र पर हो; पृष्ठ पर E = σ/ε₀; भीतर E = 0।"
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "वैद्युत फ्लक्स का SI मात्रक N m² C⁻¹ (या V m) है। दो क्षेत्र रेखाएँ कभी एक-दूसरे को नहीं काटतीं, क्योंकि किसी बिंदु पर क्षेत्र की केवल एक ही दिशा हो सकती है। आवेशित चालक खोल के भीतर वैद्युत क्षेत्र शून्य होता है, चाहे उसके पृष्ठ पर कितना भी आवेश हो।"
+    }
+  ],
+  "objective": [
+    {
+      "id": "c12-phy-ch01-q01",
+      "question": "वैद्युत आवेश का SI मात्रक है:",
+      "options": [
+        "ऐम्पियर",
+        "कूलॉम",
+        "वोल्ट",
+        "न्यूटन"
+      ],
+      "answer": 1,
+      "explanation": "वैद्युत आवेश को कूलॉम (C) में मापा जाता है। एक कूलॉम वह आवेश है जो एक ऐम्पियर की धारा प्रवाहित होने पर एक सेकंड में प्रवाहित होता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q02",
+      "question": "किसी भी वस्तु पर आवेश सदैव इलेक्ट्रॉनिक आवेश e का पूर्ण गुणज होता है। आवेश का यह गुण कहलाता है:",
+      "options": [
+        "आवेश का संरक्षण",
+        "आवेश का क्वांटीकरण",
+        "आवेश की योज्यता",
+        "आवेश की अपरिवर्तनशीलता"
+      ],
+      "answer": 1,
+      "explanation": "क्वांटीकरण का अर्थ है कि आवेश केवल असतत पैकेटों में ही पाया जाता है, q = ne, जहाँ n पूर्णांक है और e = 1.6 × 10⁻¹⁹ C है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q03",
+      "question": "एक कूलॉम आवेश में इलेक्ट्रॉनों की संख्या लगभग होती है:",
+      "options": [
+        "6.25 × 10¹⁸",
+        "1.6 × 10⁻¹⁹",
+        "6.02 × 10²³",
+        "1.6 × 10¹⁹"
+      ],
+      "answer": 0,
+      "explanation": "n = q/e = 1 / (1.6 × 10⁻¹⁹) = 6.25 × 10¹⁸ इलेक्ट्रॉन।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q04",
+      "question": "दो बिंदु आवेशों के बीच बल F है। यदि उनके बीच की दूरी दोगुनी कर दी जाए, तो बल हो जाएगा:",
+      "options": [
+        "2F",
+        "F/2",
+        "4F",
+        "F/4"
+      ],
+      "answer": 3,
+      "explanation": "कूलॉम के नियम से F ∝ 1/r²। r को दोगुना करने पर r² चार गुना हो जाता है, अतः बल घटकर F/4 रह जाता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q05",
+      "question": "2 μC और 3 μC के दो बिंदु आवेश वायु में 30 cm की दूरी पर रखे हैं। उनके बीच बल है:",
+      "options": [
+        "0.6 N",
+        "6 N",
+        "0.06 N",
+        "60 N"
+      ],
+      "answer": 0,
+      "explanation": "F = 9 × 10⁹ × (2 × 10⁻⁶ × 3 × 10⁻⁶) / (0.3)² = 9 × 10⁹ × 6 × 10⁻¹² / 0.09 = 0.6 N।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q06",
+      "question": "वैद्युत क्षेत्र की तीव्रता का SI मात्रक है:",
+      "options": [
+        "J C⁻¹",
+        "N C",
+        "C m⁻¹",
+        "N C⁻¹"
+      ],
+      "answer": 3,
+      "explanation": "वैद्युत क्षेत्र प्रति एकांक आवेश पर बल है, E = F/q, अतः इसका मात्रक न्यूटन प्रति कूलॉम (N C⁻¹) है, जो वोल्ट प्रति मीटर के समान है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q07",
+      "question": "एकसमान आवेशित पतले गोलीय खोल के भीतर किसी बिंदु पर वैद्युत क्षेत्र होता है:",
+      "options": [
+        "q / (4πε₀r²)",
+        "अनंत",
+        "शून्य",
+        "σ / ε₀"
+      ],
+      "answer": 2,
+      "explanation": "खोल के भीतर खींचा गया गाउसीय पृष्ठ कोई आवेश परिबद्ध नहीं करता, अतः गाउस के नियम से खोल के भीतर सर्वत्र क्षेत्र शून्य होता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q08",
+      "question": "एकसमान वैद्युत क्षेत्र में रखे वैद्युत द्विध्रुव पर बल-आघूर्ण अधिकतम होता है जब द्विध्रुव आघूर्ण और क्षेत्र के बीच कोण हो:",
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "answer": 2,
+      "explanation": "τ = pE sin θ, और sin θ का मान θ = 90° पर अधिकतम (1 के बराबर) होता है, अतः द्विध्रुव के क्षेत्र के लंबवत होने पर बल-आघूर्ण अधिकतम होता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q09",
+      "question": "पृष्ठीय आवेश घनत्व σ वाली अनंत समतल आवेशित चादर के कारण वैद्युत क्षेत्र होता है:",
+      "options": [
+        "σ / ε₀",
+        "σ / (2ε₀)",
+        "σ / (4πε₀)",
+        "2σ / ε₀"
+      ],
+      "answer": 1,
+      "explanation": "चादर से होकर जाने वाले बेलनाकार गाउसीय पृष्ठ पर गाउस का नियम लगाने से E = σ / (2ε₀) प्राप्त होता है, जो चादर से दूरी पर निर्भर नहीं करता।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-q10",
+      "question": "गाउस के नियम के अनुसार, आवेश q को परिबद्ध करने वाले बंद पृष्ठ से गुजरने वाला कुल वैद्युत फ्लक्स होता है:",
+      "options": [
+        "ε₀ q",
+        "q / (4πε₀)",
+        "शून्य",
+        "q / ε₀"
+      ],
+      "answer": 3,
+      "explanation": "गाउस के नियम के अनुसार किसी भी बंद पृष्ठ से गुजरने वाला कुल फ्लक्स परिबद्ध आवेश को ε₀ से भाग देने पर प्राप्त होता है, अर्थात φ = q / ε₀।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c12-phy-ch01-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "स्थिरवैद्युतिकी में कूलॉम का नियम लिखिए तथा इसे सदिश रूप में व्यक्त कीजिए।",
+      "answerOutline": [
+        "विराम में स्थित दो बिंदु आवेशों के बीच बल आवेशों के गुणनफल के अनुक्रमानुपाती तथा उनके बीच की दूरी के वर्ग के व्युत्क्रमानुपाती होता है, और उन्हें मिलाने वाली रेखा के अनुदिश कार्य करता है।",
+        "अदिश रूप: F = (1/4πε₀) · q₁q₂ / r², जहाँ 1/4πε₀ = 9 × 10⁹ N m² C⁻²।",
+        "सदिश रूप: F₂₁ = (1/4πε₀) · (q₁q₂ / r²) r̂₂₁, जहाँ r̂₂₁, q₁ से q₂ की ओर एकांक सदिश है।",
+        "q₁q₂ > 0 होने पर बल प्रतिकर्षण का और q₁q₂ < 0 होने पर आकर्षण का होता है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "वैद्युत क्षेत्र रेखाएँ क्या हैं? इनके कोई दो गुण लिखिए।",
+      "answerOutline": [
+        "वैद्युत क्षेत्र रेखा एक काल्पनिक वक्र है जिसे इस प्रकार खींचा जाता है कि किसी भी बिंदु पर उसकी स्पर्श रेखा उस बिंदु पर वैद्युत क्षेत्र की दिशा बताती है।",
+        "क्षेत्र रेखाएँ धनात्मक आवेश से प्रारंभ होकर ऋणात्मक आवेश पर समाप्त होती हैं (या अनंत तक जाती हैं); स्थिरवैद्युतिकी में ये कभी बंद लूप नहीं बनातीं।",
+        "दो क्षेत्र रेखाएँ कभी एक-दूसरे को नहीं काटतीं, क्योंकि किसी बिंदु पर क्षेत्र की केवल एक ही दिशा हो सकती है।",
+        "जहाँ क्षेत्र प्रबल होता है वहाँ रेखाएँ सघन और जहाँ क्षेत्र दुर्बल होता है वहाँ विरल होती हैं।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "स्थिरवैद्युतिकी में गाउस का नियम लिखिए। इसका उपयोग करके अनंत लंबाई के सीधे एकसमान आवेशित तार के कारण वैद्युत क्षेत्र का व्यंजक प्राप्त कीजिए।",
+      "answerOutline": [
+        "गाउस का नियम: किसी भी बंद पृष्ठ से गुजरने वाला कुल वैद्युत फ्लक्स उसके द्वारा परिबद्ध कुल आवेश का 1/ε₀ गुना होता है, φ = ∮ E · dS = q / ε₀।",
+        "रैखिक आवेश घनत्व λ वाला तार लीजिए। सममिति के कारण क्षेत्र त्रिज्यीय होता है और तार से दूरी r पर स्थित प्रत्येक बिंदु पर उसका परिमाण समान होता है।",
+        "त्रिज्या r और लंबाई l का समाक्षीय बेलनाकार गाउसीय पृष्ठ चुनिए। दोनों समतल सिरों से फ्लक्स शून्य है क्योंकि E उनके समांतर है।",
+        "वक्र पृष्ठ से फ्लक्स = E × 2πrl। परिबद्ध आवेश = λl।",
+        "गाउस के नियम से, E × 2πrl = λl / ε₀, अतः E = λ / (2πε₀ r)।",
+        "धनात्मक λ के लिए क्षेत्र त्रिज्यतः बाहर की ओर और ऋणात्मक λ के लिए भीतर की ओर होता है; यह 1/r के अनुसार बदलता है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch01-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "वैद्युत द्विध्रुव और द्विध्रुव आघूर्ण को परिभाषित कीजिए। एकसमान वैद्युत क्षेत्र में रखे वैद्युत द्विध्रुव पर लगने वाले बल-आघूर्ण का व्यंजक व्युत्पन्न कीजिए।",
+      "answerOutline": [
+        "वैद्युत द्विध्रुव दो बराबर और विपरीत बिंदु आवेशों +q और −q का युग्म है जो एक-दूसरे से अल्प दूरी 2a पर स्थित हैं।",
+        "द्विध्रुव आघूर्ण p = q × 2a; यह एक सदिश राशि है जिसकी दिशा −q से +q की ओर होती है, SI मात्रक C m।",
+        "एकसमान क्षेत्र E में +q पर E की दिशा में बल qE और −q पर E के विपरीत बल qE लगता है; कुल बल शून्य है, अतः द्विध्रुव की कोई स्थानांतरीय गति नहीं होती।",
+        "ये दोनों बल एक बलयुग्म बनाते हैं। उनके बीच लंबवत दूरी = 2a sin θ, जहाँ θ, p और E के बीच का कोण है।",
+        "बल-आघूर्ण τ = बल × लंबवत दूरी = qE × 2a sin θ = pE sin θ; सदिश रूप में τ = p × E।",
+        "θ = 0° (स्थायी संतुलन) और 180° (अस्थायी संतुलन) पर बल-आघूर्ण शून्य तथा θ = 90° पर अधिकतम (= pE) होता है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

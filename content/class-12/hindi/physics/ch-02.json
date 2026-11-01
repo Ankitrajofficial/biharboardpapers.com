@@ -1,0 +1,343 @@
+{
+  "id": "c12-phy-ch02",
+  "class": "class-12",
+  "medium": "hindi",
+  "subjectId": "physics",
+  "chapterNumber": 2,
+  "syllabus": {
+    "section": "Part I",
+    "no": 2
+  },
+  "slug": "sthirvaidyut-vibhav-tatha-dharita",
+  "title": "स्थिरवैद्युत विभव तथा धारिता",
+  "aliases": [
+    "electrostatic potential",
+    "vidyut vibhav",
+    "sthirvaidyut vibhav aur dharita",
+    "capacitance",
+    "capacitor",
+    "sandharitra",
+    "dharita",
+    "वैद्युत विभव"
+  ],
+  "summary": "स्थिरवैद्युत विभव, बिंदु आवेश और द्विध्रुव के कारण विभव, समविभव पृष्ठ, स्थितिज ऊर्जा, चालक और परावैद्युत, संधारित्र, उनके संयोजन तथा संचित ऊर्जा।",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "भौतिकी भाग 1, कक्षा 12 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?lhph1=0-8"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "स्थिरवैद्युत विभव"
+    },
+    {
+      "type": "paragraph",
+      "text": "किसी बिंदु पर स्थिरवैद्युत विभव वह कार्य है जो किसी बाह्य कारक द्वारा एकांक धनात्मक परीक्षण आवेश को बिना त्वरण के अनंत से उस बिंदु तक लाने में किया जाता है। यह एक अदिश राशि है। SI मात्रक: वोल्ट (V), जहाँ 1 V = 1 J C⁻¹। दो बिंदुओं के बीच विभवांतर, परीक्षण आवेश को एक बिंदु से दूसरे बिंदु तक ले जाने में प्रति एकांक आवेश किया गया कार्य है।"
+    },
+    {
+      "type": "formula",
+      "label": "बिंदु आवेश के कारण विभव",
+      "text": "V = (1/4πε₀) · (q / r),   तथा द्विध्रुव के लिए दूरी r पर (r ≫ a):  V = (1/4πε₀) · (p cos θ / r²)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "आवेशों के समूह के कारण विभव, प्रत्येक आवेश के कारण विभवों का बीजगणितीय योग होता है (अध्यारोपण)।",
+        "क्षेत्र और विभव में संबंध: E = −dV/dr। क्षेत्र उस दिशा में होता है जिसमें विभव सबसे तेजी से घटता है।",
+        "समविभव पृष्ठ वह पृष्ठ है जिसके प्रत्येक बिंदु पर विभव समान होता है। बिंदु आवेश के लिए ये संकेंद्री गोले होते हैं; एकसमान क्षेत्र के लिए E के लंबवत समांतर समतल।",
+        "समविभव पृष्ठ कभी एक-दूसरे को नहीं काटते, और वैद्युत क्षेत्र सदैव उनके लंबवत होता है।"
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "विभव अदिश राशि है, अतः इसे दिशा की चिंता किए बिना सीधे जोड़ा जा सकता है। समविभव पृष्ठ पर आवेश को ले जाने में कोई कार्य नहीं होता, क्योंकि विभवांतर शून्य होता है। द्विध्रुव की अक्ष पर V अधिकतम होता है; निरक्षीय रेखा पर V = 0।"
+    },
+    {
+      "type": "heading",
+      "text": "स्थितिज ऊर्जा, चालक और परावैद्युत"
+    },
+    {
+      "type": "formula",
+      "label": "स्थिरवैद्युत स्थितिज ऊर्जा",
+      "text": "दो आवेशों के लिए U = (1/4πε₀) · (q₁q₂ / r);   एकसमान क्षेत्र में द्विध्रुव के लिए U = −pE cos θ = −p · E"
+    },
+    {
+      "type": "list",
+      "items": [
+        "स्थिरवैद्युत संतुलन में चालक के भीतर E = 0, सारा अतिरिक्त आवेश बाहरी पृष्ठ पर रहता है, और पूरा चालक समविभव होता है।",
+        "आवेशित चालक के पृष्ठ के ठीक बाहर E = σ/ε₀, पृष्ठ के लंबवत। चालक के भीतर बनी गुहा में क्षेत्र शून्य होता है (स्थिरवैद्युत परिरक्षण)।",
+        "परावैद्युत एक विद्युतरोधी पदार्थ है। बाह्य क्षेत्र में इसके अणुओं में प्रेरित द्विध्रुव आघूर्ण उत्पन्न होते हैं (ध्रुवण), जो विपरीत क्षेत्र बनाकर भीतर के कुल क्षेत्र को K गुना कम कर देते हैं; K परावैद्युतांक है (K = ε/ε₀ > 1)।"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "धारिता"
+    },
+    {
+      "type": "formula",
+      "label": "समांतर पट्टिका संधारित्र",
+      "text": "C = Q/V;   C = ε₀A / d  (पट्टिकाओं के बीच वायु);   C = Kε₀A / d  (परावैद्युत से पूरा अंतराल भरा);   SI मात्रक: फैरड (F)"
+    },
+    {
+      "type": "formula",
+      "label": "संधारित्रों का संयोजन और संचित ऊर्जा",
+      "text": "श्रेणीक्रम: 1/C = 1/C₁ + 1/C₂ + …;   समांतर क्रम: C = C₁ + C₂ + …;   U = ½CV² = Q²/2C = ½QV"
+    },
+    {
+      "type": "remember",
+      "text": "फैरड बहुत बड़ा मात्रक है; व्यावहारिक संधारित्र μF (10⁻⁶ F), nF (10⁻⁹ F) और pF (10⁻¹² F) में मापे जाते हैं। परावैद्युतांक K का परावैद्युत डालने पर धारिता K गुनी हो जाती है। क्षेत्र में प्रति एकांक आयतन संचित ऊर्जा (ऊर्जा घनत्व) ½ε₀E² होती है। श्रेणीक्रम में प्रत्येक संधारित्र पर आवेश समान होता है; समांतर क्रम में प्रत्येक पर विभवांतर समान होता है।"
+    }
+  ],
+  "objective": [
+    {
+      "id": "c12-phy-ch02-q01",
+      "question": "स्थिरवैद्युत विभव का SI मात्रक है:",
+      "options": [
+        "वोल्ट",
+        "जूल",
+        "कूलॉम",
+        "ऐम्पियर"
+      ],
+      "answer": 0,
+      "explanation": "विभव प्रति एकांक आवेश किया गया कार्य है, अतः इसका मात्रक जूल प्रति कूलॉम है, जिसे वोल्ट (V) कहते हैं।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q02",
+      "question": "समविभव पृष्ठ पर किसी आवेश को एक बिंदु से दूसरे बिंदु तक ले जाने में किया गया कार्य होता है:",
+      "options": [
+        "धनात्मक",
+        "ऋणात्मक",
+        "शून्य",
+        "अनंत"
+      ],
+      "answer": 2,
+      "explanation": "समविभव पृष्ठ का प्रत्येक बिंदु समान विभव पर होता है, अतः विभवांतर शून्य है और W = q × ΔV = 0।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q03",
+      "question": "वायु में 1 μC के बिंदु आवेश से 1 m की दूरी पर स्थिरवैद्युत विभव है:",
+      "options": [
+        "9 V",
+        "90 V",
+        "9 × 10⁹ V",
+        "9 × 10³ V"
+      ],
+      "answer": 3,
+      "explanation": "V = (1/4πε₀) · q/r = 9 × 10⁹ × 10⁻⁶ / 1 = 9 × 10³ V।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q04",
+      "question": "वैद्युत क्षेत्र E और विभव V के बीच सही संबंध है:",
+      "options": [
+        "E = dV/dr",
+        "E = V r",
+        "E = −dV/dr",
+        "E = V / r²"
+      ],
+      "answer": 2,
+      "explanation": "वैद्युत क्षेत्र विभव की ऋणात्मक प्रवणता है: E = −dV/dr। ऋण चिह्न दर्शाता है कि क्षेत्र घटते हुए विभव की दिशा में होता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q05",
+      "question": "एक समांतर पट्टिका संधारित्र की धारिता, पट्टिकाओं के बीच वायु होने पर C है। जब अंतराल को परावैद्युतांक K के परावैद्युत से पूरी तरह भर दिया जाता है, तो धारिता हो जाती है:",
+      "options": [
+        "C / K",
+        "K C",
+        "C",
+        "K² C"
+      ],
+      "answer": 1,
+      "explanation": "परावैद्युत के साथ C' = Kε₀A/d = K × (ε₀A/d) = KC, अतः धारिता K गुनी बढ़ जाती है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q06",
+      "question": "2 μF, 3 μF और 6 μF के तीन संधारित्र श्रेणीक्रम में जुड़े हैं। तुल्य धारिता है:",
+      "options": [
+        "11 μF",
+        "1 μF",
+        "6 μF",
+        "0.5 μF"
+      ],
+      "answer": 1,
+      "explanation": "श्रेणीक्रम में 1/C = 1/2 + 1/3 + 1/6 = (3 + 2 + 1)/6 = 1, अतः C = 1 μF।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q07",
+      "question": "एक 2 μF के संधारित्र को 100 V के विभवांतर तक आवेशित किया गया है। इसमें संचित ऊर्जा है:",
+      "options": [
+        "0.1 J",
+        "0.02 J",
+        "0.01 J",
+        "1 J"
+      ],
+      "answer": 2,
+      "explanation": "U = ½CV² = ½ × 2 × 10⁻⁶ × (100)² = 10⁻⁶ × 10⁴ = 10⁻² J = 0.01 J।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q08",
+      "question": "स्थिरवैद्युत संतुलन में किसी आवेशित चालक के भीतर वैद्युत क्षेत्र होता है:",
+      "options": [
+        "शून्य",
+        "अधिकतम",
+        "पृष्ठ पर क्षेत्र के बराबर",
+        "अनंत"
+      ],
+      "answer": 0,
+      "explanation": "यदि भीतर क्षेत्र होता, तो मुक्त इलेक्ट्रॉन गति करते और चालक संतुलन में नहीं रहता। अतः भीतर E = 0 होता है और अतिरिक्त आवेश पृष्ठ पर रहता है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q09",
+      "question": "एकसमान वैद्युत क्षेत्र E के समांतर रखे (θ = 0°) आघूर्ण p वाले वैद्युत द्विध्रुव की स्थितिज ऊर्जा है:",
+      "options": [
+        "+pE",
+        "−pE",
+        "शून्य",
+        "pE / 2"
+      ],
+      "answer": 1,
+      "explanation": "U = −pE cos θ। θ = 0° पर cos θ = 1, अतः U = −pE, जो न्यूनतम मान है और स्थायी संतुलन की स्थिति है।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-q10",
+      "question": "4 μF और 6 μF के दो संधारित्र समांतर क्रम में जुड़े हैं। तुल्य धारिता है:",
+      "options": [
+        "2.4 μF",
+        "24 μF",
+        "1.5 μF",
+        "10 μF"
+      ],
+      "answer": 3,
+      "explanation": "समांतर क्रम में धारिताएँ सीधे जुड़ जाती हैं: C = 4 + 6 = 10 μF।",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c12-phy-ch02-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "किसी बिंदु पर स्थिरवैद्युत विभव को परिभाषित कीजिए। इसका SI मात्रक लिखिए तथा बताइए कि यह अदिश राशि है या सदिश।",
+      "answerOutline": [
+        "किसी बिंदु पर स्थिरवैद्युत विभव वह कार्य है जो बाह्य कारक द्वारा एकांक धनात्मक आवेश को बिना त्वरण के अनंत से उस बिंदु तक लाने में किया जाता है: V = W/q₀।",
+        "SI मात्रक: वोल्ट (V); 1 V = 1 J C⁻¹।",
+        "यह एक अदिश राशि है, क्योंकि कार्य और आवेश दोनों अदिश हैं।",
+        "बिंदु आवेश q के लिए V = (1/4πε₀) · q/r, तथा अनंत पर विभव शून्य माना जाता है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "समविभव पृष्ठ क्या है? दो समविभव पृष्ठ एक-दूसरे को कभी क्यों नहीं काट सकते?",
+      "answerOutline": [
+        "समविभव पृष्ठ वह पृष्ठ है जिसके प्रत्येक बिंदु पर स्थिरवैद्युत विभव समान होता है।",
+        "उदाहरण: बिंदु आवेश के चारों ओर संकेंद्री गोले; एकसमान क्षेत्र के लंबवत समांतर समतल।",
+        "यदि दो ऐसे पृष्ठ एक-दूसरे को काटें, तो कटान बिंदु पर एक ही समय में दो भिन्न विभव होंगे, जो असंभव है।",
+        "साथ ही, क्षेत्र समविभव पृष्ठ के लंबवत होना चाहिए; कटान बिंदु पर क्षेत्र की दो दिशाएँ होंगी, जो संभव नहीं है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "समांतर पट्टिका संधारित्र की धारिता का व्यंजक व्युत्पन्न कीजिए। जब पट्टिकाओं के बीच का स्थान परावैद्युत पट्टिका से पूरी तरह भर दिया जाए तो धारिता में क्या परिवर्तन होता है?",
+      "answerOutline": [
+        "प्रत्येक A क्षेत्रफल की दो समांतर धातु पट्टिकाएँ लीजिए जो अल्प दूरी d पर हैं और जिन पर +Q तथा −Q आवेश हैं। पृष्ठीय आवेश घनत्व σ = Q/A।",
+        "गाउस के नियम से पट्टिकाओं के बीच क्षेत्र एकसमान है: E = σ/ε₀ = Q/(ε₀A); पट्टिकाओं के बाहर दोनों चादरों के क्षेत्र एक-दूसरे को निरस्त कर देते हैं।",
+        "पट्टिकाओं के बीच विभवांतर V = E × d = Qd/(ε₀A)।",
+        "धारिता C = Q/V = ε₀A/d।",
+        "C पट्टिका के क्षेत्रफल के अनुक्रमानुपाती और उनके बीच की दूरी के व्युत्क्रमानुपाती है; यह Q या V पर निर्भर नहीं करती।",
+        "जब परावैद्युतांक K का परावैद्युत अंतराल को भर देता है, तो क्षेत्र घटकर E/K हो जाता है, अतः V घटकर V/K रह जाता है और धारिता C' = Kε₀A/d = KC हो जाती है, अर्थात यह K गुनी बढ़ जाती है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-phy-ch02-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "आवेशित संधारित्र में संचित ऊर्जा का व्यंजक व्युत्पन्न कीजिए। श्रेणीक्रम में जुड़े तीन संधारित्रों की तुल्य धारिता का व्यंजक भी प्राप्त कीजिए।",
+      "answerOutline": [
+        "संचित ऊर्जा: किसी क्षण जब संधारित्र पर आवेश q है, उसका विभव V = q/C है। अतिरिक्त आवेश dq जोड़ने में किया गया कार्य dW = V dq = (q/C) dq।",
+        "इसे 0 से Q तक आवेशित करने में कुल कार्य: W = ∫₀^Q (q/C) dq = Q²/2C। यह कार्य स्थिरवैद्युत ऊर्जा के रूप में संचित रहता है, U = Q²/2C = ½CV² = ½QV।",
+        "श्रेणी संयोजन: V वोल्टता की बैटरी से सिरे-से-सिरे जुड़े संधारित्र C₁, C₂, C₃ में प्रत्येक पर समान आवेश Q होता है।",
+        "उनके सिरों पर विभवांतर V₁ = Q/C₁, V₂ = Q/C₂, V₃ = Q/C₃, तथा V = V₁ + V₂ + V₃।",
+        "यदि C तुल्य धारिता है, तो V = Q/C, अतः Q/C = Q/C₁ + Q/C₂ + Q/C₃, जिससे 1/C = 1/C₁ + 1/C₂ + 1/C₃।",
+        "श्रेणीक्रम में तुल्य धारिता सबसे छोटी एकल धारिता से भी कम होती है।"
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}

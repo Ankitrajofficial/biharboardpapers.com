@@ -1,0 +1,342 @@
+{
+  "id": "c12-his-ch02",
+  "class": "class-12",
+  "medium": "english",
+  "subjectId": "history",
+  "chapterNumber": 2,
+  "syllabus": {
+    "section": "Part I",
+    "no": 2
+  },
+  "slug": "kings-farmers-and-towns",
+  "title": "Kings, Farmers and Towns: Early States and Economies",
+  "aliases": [
+    "mauryan empire",
+    "ashoka",
+    "magadha",
+    "mahajanapadas",
+    "kings farmers towns",
+    "मौर्य साम्राज्य",
+    "maurya samrajya",
+    "gupta empire"
+  ],
+  "summary": "From the sixteen mahajanapadas to the Guptas (c. 600 BCE-600 CE): Magadha, the Mauryas, Ashoka's dhamma, inscriptions, coins, villages and towns.",
+  "status": "sample",
+  "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+  "sourceUrl": "",
+  "lastReviewed": "2026-11-01",
+  "reviewer": "unreviewed (sample)",
+  "textbook": {
+    "name": "Themes in Indian History Part I, Class 12 (NCERT)",
+    "url": "https://ncert.nic.in/textbook.php?lehs1=0-4"
+  },
+  "youtube": null,
+  "notes": [
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "This chapter covers roughly 600 BCE to 600 CE. In these thousand years the sixteen mahajanapadas appeared, Magadha rose to power, and the Mauryas, Kushanas, Satavahanas and Guptas built large states. Historians reconstruct the period from inscriptions, coins, texts and archaeological finds. The sixth century BCE is seen as a turning point because of the growth of early states and cities, the spread of iron tools and the rise of Buddhism and Jainism."
+    },
+    {
+      "type": "heading",
+      "text": "The sixteen mahajanapadas and the rise of Magadha"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Buddhist and Jaina texts list sixteen mahajanapadas, such as Vajji, Magadha, Koshala, Kuru, Panchala, Gandhara and Avanti.",
+        "Most were ruled by kings, but some, called ganas or sanghas, were ruled by groups of men together, for example the Vajji confederacy.",
+        "Each had a fortified capital, a standing army and a regular system of taxes on farmers, traders and craftsmen.",
+        "Magadha (south Bihar) became the strongest: fertile land, iron ore, forests with elephants, river routes, and ambitious rulers such as Bimbisara, Ajatasattu and Mahapadma Nanda.",
+        "Its capital was first Rajagaha (Rajgir) and later Pataliputra (Patna) on the Ganga."
+      ]
+    },
+    {
+      "type": "remember",
+      "text": "Magadha's capital: Rajagaha, later Pataliputra. Chandragupta Maurya founded the Mauryan empire around 321 BCE with the help of Chanakya (Kautilya), the author of the Arthashastra. Megasthenes, the Greek ambassador at his court, wrote the Indica."
+    },
+    {
+      "type": "heading",
+      "text": "The Mauryan empire and Ashoka"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Mauryan empire stretched from Afghanistan in the north-west to Karnataka in the south. Pataliputra was the capital and there were provincial centres at Taxila, Ujjayini, Tosali and Suvarnagiri. After the bloody war in Kalinga, Ashoka gave up conquest and spread the idea of dhamma: respect for elders, kindness to slaves, servants and animals, generosity to brahmanas and monks, and tolerance of all sects. Special officers called dhamma mahamattas were appointed to spread it. His inscriptions are mostly in Prakrit written in the Brahmi script; in the north-west Kharosthi was used, and at Kandahar Greek and Aramaic. In them he calls himself 'Devanampiya Piyadassi' (beloved of the gods, pleasant to look at)."
+    },
+    {
+      "type": "heading",
+      "text": "After the Mauryas: new rulers and new ideas of kingship"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kushanas (c. 1st century BCE to 1st century CE) ruled from Central Asia to Mathura; Kanishka used the title devaputra (son of god) and giant royal statues were installed at Mat near Mathura.",
+        "Satavahanas ruled the Deccan and the Shakas ruled western India.",
+        "Gupta period: the achievements of Samudragupta are recorded in the Prayaga Prashasti (Allahabad pillar inscription), composed in Sanskrit by his court poet Harishena.",
+        "Prabhavati Gupta, daughter of Chandragupta II, ruled the Vakataka kingdom on behalf of her son and issued land grants to brahmanas.",
+        "Coins: punch-marked silver and copper coins (c. 6th century BCE) are the earliest; Indo-Greek kings first put the ruler's name and image on coins; the Kushanas issued the first large gold coins, followed by the Guptas."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Villages, towns and the limits of inscriptions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iron-tipped ploughshares, transplantation of paddy and irrigation through wells, tanks and canals increased farm production. Village society had the gahapati (head of a landowning household), small independent farmers and landless labourers; Tamil Sangam poems mention vellalar (large landowners), uzhavar (ploughmen) and adimai (slaves). Towns such as Mathura, Ujjayini, Taxila and Pataliputra grew along trade routes, and craftsmen organised themselves into guilds called shrenis. Inscriptions are valuable but have limits: letters are often damaged, some scripts are undeciphered, routine events were not recorded, and they usually give the ruler's point of view."
+    },
+    {
+      "type": "remember",
+      "text": "Ashoka's pillar inscription at Lumbini (Rummindei) records his visit to the Buddha's birthplace, frees the village from bali and reduces bhaga to one-eighth. Prayaga Prashasti: written by Harishena in praise of Samudragupta. Brahmi and Kharosthi were deciphered by James Prinsep in 1838."
+    }
+  ],
+  "objective": [
+    {
+      "id": "c12-his-ch02-q01",
+      "question": "Who deciphered the Brahmi and Kharosthi scripts in 1838?",
+      "options": [
+        "John Marshall",
+        "James Prinsep",
+        "Alexander Cunningham",
+        "R. E. M. Wheeler"
+      ],
+      "answer": 1,
+      "explanation": "James Prinsep, an officer of the East India Company, read the Brahmi and Kharosthi scripts in 1838, which made it possible to read Ashoka's inscriptions.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q02",
+      "question": "The capital of the Mauryan empire was:",
+      "options": [
+        "Taxila",
+        "Ujjayini",
+        "Pataliputra",
+        "Rajagaha"
+      ],
+      "answer": 2,
+      "explanation": "Pataliputra (modern Patna) was the Mauryan capital. Taxila and Ujjayini were provincial centres, and Rajagaha was the earlier capital of Magadha.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q03",
+      "question": "The Prayaga Prashasti was composed by:",
+      "options": [
+        "Kautilya",
+        "Megasthenes",
+        "Harishena",
+        "Banabhatta"
+      ],
+      "answer": 2,
+      "explanation": "Harishena, the court poet of Samudragupta, composed the Prayaga Prashasti in Sanskrit to praise the king's conquests and qualities.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q04",
+      "question": "In his inscriptions Ashoka usually refers to himself as:",
+      "options": [
+        "Chakravartin",
+        "Devaputra",
+        "Devanampiya Piyadassi",
+        "Maharajadhiraja"
+      ],
+      "answer": 2,
+      "explanation": "Ashoka used the title 'Devanampiya Piyadassi', meaning 'beloved of the gods, pleasant to look at'. Devaputra was a Kushana title.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q05",
+      "question": "Which rulers issued the first gold coins in India on a large scale?",
+      "options": [
+        "Guptas",
+        "Indo-Greeks",
+        "Kushanas",
+        "Mauryas"
+      ],
+      "answer": 2,
+      "explanation": "The Kushanas issued the first large gold coins in the first century CE. The Guptas followed with their own fine gold coins later.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q06",
+      "question": "The Indica was written by:",
+      "options": [
+        "Kautilya",
+        "Megasthenes",
+        "Fa Xian",
+        "Ptolemy"
+      ],
+      "answer": 1,
+      "explanation": "Megasthenes was the Greek ambassador at the court of Chandragupta Maurya and wrote the Indica, an account of India, which survives only in fragments.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q07",
+      "question": "The first capital of Magadha was:",
+      "options": [
+        "Pataliputra",
+        "Vaishali",
+        "Rajagaha",
+        "Champa"
+      ],
+      "answer": 2,
+      "explanation": "Rajagaha (modern Rajgir in Bihar), a fortified settlement among hills, was the earliest capital of Magadha. Later the capital shifted to Pataliputra.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q08",
+      "question": "Prabhavati Gupta was the daughter of:",
+      "options": [
+        "Samudragupta",
+        "Chandragupta I",
+        "Chandragupta II",
+        "Kumaragupta"
+      ],
+      "answer": 2,
+      "explanation": "Prabhavati Gupta, daughter of Chandragupta II, was married into the Vakataka family and ruled as regent for her son, issuing her own land grants.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q09",
+      "question": "Which of the following mahajanapadas was a gana or sangha (oligarchy)?",
+      "options": [
+        "Magadha",
+        "Vajji",
+        "Koshala",
+        "Avanti"
+      ],
+      "answer": 1,
+      "explanation": "Vajji, with its capital at Vaishali, was ruled jointly by a group of men and is the best-known example of a gana or sangha. The other three were monarchies.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-q10",
+      "question": "Ashokan inscriptions in the north-west of the subcontinent were written in which script?",
+      "options": [
+        "Brahmi",
+        "Kharosthi",
+        "Devanagari",
+        "Tamil-Brahmi"
+      ],
+      "answer": 1,
+      "explanation": "In the north-west (around present-day Pakistan and Afghanistan) Ashoka's edicts used the Kharosthi script, while elsewhere Brahmi was used; at Kandahar Greek and Aramaic also appear.",
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ],
+  "important": [
+    {
+      "id": "c12-his-ch02-s01",
+      "type": "short",
+      "marks": 2,
+      "question": "Why did Magadha become the most powerful mahajanapada?",
+      "answerOutline": [
+        "Very fertile land of the Ganga plain gave a large farm surplus.",
+        "Iron mines nearby (present-day Jharkhand) supplied tools and weapons; forests supplied elephants for the army.",
+        "The Ganga and its tributaries gave cheap and easy transport for trade and armies.",
+        "Ambitious rulers such as Bimbisara, Ajatasattu and Mahapadma Nanda, and well-protected capitals at Rajagaha and later Pataliputra."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-s02",
+      "type": "short",
+      "marks": 2,
+      "question": "What was Ashoka's dhamma?",
+      "answerOutline": [
+        "A set of simple moral rules announced by Ashoka after the Kalinga war, not a new religion.",
+        "Respect for parents and elders, kindness to slaves, servants and animals, generosity to brahmanas and monks.",
+        "Tolerance of all religious sects and avoidance of useless rituals and animal sacrifice.",
+        "Spread through rock and pillar edicts and through officers called dhamma mahamattas."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-s03",
+      "type": "long",
+      "marks": 5,
+      "question": "Describe the main sources for the history of the Mauryan empire and discuss the limitations of inscriptions as a source.",
+      "answerOutline": [
+        "Archaeological finds, especially sculpture, and remains of Pataliputra.",
+        "Megasthenes' Indica (surviving in fragments), Kautilya's Arthashastra, and later Buddhist, Jaina and Puranic texts.",
+        "Inscriptions of Ashoka on rocks and pillars, in Prakrit (Brahmi), Kharosthi, Greek and Aramaic, which give direct words of the ruler.",
+        "Limitation 1: letters are faint or damaged and some scripts (e.g. Harappan) are undeciphered; meanings of words are not always certain.",
+        "Limitation 2: inscriptions record only what rulers and donors thought important; everyday life, farmers' and workers' views are missing.",
+        "Limitation 3: thousands of inscriptions exist but not all have been found or published, so the picture is incomplete and historians must compare them with other sources."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    },
+    {
+      "id": "c12-his-ch02-s04",
+      "type": "long",
+      "marks": 5,
+      "question": "Describe the changes in agriculture and rural society between 600 BCE and 600 CE.",
+      "answerOutline": [
+        "New techniques: iron-tipped ploughshares in the fertile river valleys, transplantation of paddy, and irrigation by wells, tanks and canals, often built by kings or local communities.",
+        "Production rose, but hoe cultivation continued in hilly and semi-arid regions.",
+        "Differences grew within villages: in Buddhist texts the gahapati was the head of a landowning household, while small farmers and landless labourers worked for wages.",
+        "Tamil Sangam literature names vellalar (large landowners), uzhavar (ploughmen) and adimai (slaves).",
+        "Kings collected taxes such as bhaga (share of produce) and bali; Ashoka's Lumbini inscription shows a village being exempted from bali and bhaga reduced to one-eighth.",
+        "From the Gupta period land grants to brahmanas and officials created new village landlords and changed relations between rulers and farmers."
+      ],
+      "status": "sample",
+      "source": "Sample content written for demonstration by AR Group Ventures editorial team. Not an official BSEB question.",
+      "sourceUrl": "",
+      "lastReviewed": "2026-11-01",
+      "reviewer": "unreviewed (sample)"
+    }
+  ]
+}
